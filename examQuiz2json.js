@@ -5,7 +5,7 @@ const writeFile = require("./writeFileSafe")
 
 
 const FILE_PATH = path.join(__dirname, "./data/MS-700.html")
-const RESULT_PATH = path.join(__dirname, "./data/MS-700_mini.html")
+const RESULT_PATH = path.join(__dirname, "./data/MS-700_mini.json")
 
 fs.promises.readFile(FILE_PATH, {
   encoding: "utf-8"
@@ -17,8 +17,9 @@ fs.promises.readFile(FILE_PATH, {
     .removeTag("span")
     .reviseChoices(["A", "B", "C", "D", "E", "F", "G"])
     .flatContent()
+    .build()
 
-  // writeFile(RESULT_PATH, result.content)
+  writeFile(RESULT_PATH, JSON.stringify(result.structedContent.slice(53, 60)))
 })
 
 class Result {
@@ -69,9 +70,66 @@ class Result {
       )
       .flat()
 
-    writeFile(
-      path.join(__dirname, "./data/MS-700_mini.json"),
-      JSON.stringify(this.content.slice(30, 100)))
+    return this
+  }
+
+  build() {
+    this.structedContent = splitContentIntoSection(this.content).map(section => {
+      if (section[0].text.startsWith("QUESTION")) {
+        const headOfAnswerSection = section.findIndex(_ => _.text && _.text.startsWith("Correct Answer:"))
+        const headOfSelections = section.slice(0, headOfAnswerSection)
+          .findIndex(_ => _.text && _.text.startsWith("A."))
+
+        const questionSection = section.slice(1, headOfSelections)
+        const questionText = {
+          type: "text",
+          text: questionSection.filter(_ => _.text).map(_ => _.text).join(" ")
+        }
+        const questionImages = questionSection.filter(_ => _.src)
+
+        const selections = section.slice(headOfSelections, headOfAnswerSection)
+
+        const answers = section.slice(headOfAnswerSection)
+        const headOfExplanation = answers.findIndex(_ => _.text === "Explanation:")
+        if (headOfExplanation !== -1) {
+          const headOfReference = answers.findIndex(_ => _.text === "Reference:")
+          const explanationText = answers
+            .slice(headOfExplanation + 1, headOfReference)
+            .map(_ => _.text)
+            .join(" ")
+          answers[headOfExplanation + 1].text = explanationText
+          answers.splice(headOfExplanation + 2, headOfReference - headOfExplanation - 2)
+        }
+
+        return {
+          type: "question",
+          title: section[0].text,
+          question: [questionText, ...questionImages],
+          selections,
+          answers
+        }
+      }
+
+      if (section[0].text.startsWith("Case study")) {
+        const text = {
+          type: "text",
+          text: section.slice(1).filter(_ => _.text).join(" ")
+        }
+        const images = section.filter(_ => _.src)
+
+        return {
+          type: "CaseStudy",
+          content: [text, ...images]
+        }
+      }
+
+      return {
+        type: "sectionHeader",
+        content: section,
+      }
+    })
+
+    return this
   }
 }
 
@@ -108,7 +166,7 @@ function formatContentStr(rawStr) {
   let content
   if (rawStr.startsWith("<img"))
     content = {
-      type: "img",
+      type: "image",
       src: /src="(.*?)"/.exec(rawStr) && /src="(.*?)"/.exec(rawStr)[1]
     }
   else
@@ -118,4 +176,40 @@ function formatContentStr(rawStr) {
     }
 
   return content
+}
+
+
+function splitContentIntoSection(content) {
+  let lastIndex = 0
+  let structedContent = []
+  for (let idx = 0; idx < content.length;) {
+    const _ = content[idx]
+
+    if (!_.text) {
+      ++idx
+      continue
+    }
+
+    if (_.text.startsWith("Question Set") || _.text.startsWith("Testlet")) {
+      structedContent.push(content.slice(lastIndex, idx + 1))
+      lastIndex = idx + 1
+      idx = lastIndex
+      continue
+    }
+
+    if (_.text.startsWith("QUESTION") || _.text.startsWith("Case study")) {
+      const stepToNextQues = content
+        .slice(idx + 1)
+        .findIndex(ele => ele.text && ele.text.startsWith("QUESTION"))
+      const endOfQues = stepToNextQues === -1 ? content.length : stepToNextQues + idx + 1
+
+      structedContent.push(content.slice(idx, endOfQues))
+      lastIndex = endOfQues
+      idx = lastIndex
+      continue
+    }
+    ++idx
+  }
+
+  return structedContent
 }

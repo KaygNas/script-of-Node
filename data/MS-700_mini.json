@@ -1,211 +1,853 @@
 [{
-  "type": "text",
-  "text": "Explanation/Reference:"
-}, {
-  "type": "text",
-  "text": "QUESTION 2"
-}, {
-  "type": "text",
-  "text": "Note: This question is part of a series of questions that present the same scenario. Each question"
-}, {
-  "type": "text",
-  "text": "in the series contains a unique solution that might meet the stated goals. Some question sets"
-}, {
-  "type": "text",
-  "text": "might have more than one correct solution, while others might not have a correct solution."
-}, {
-  "type": "text",
-  "text": "After you answer a question in this section, you will NOT be able to return to it. As a result, these"
-}, {
-  "type": "text",
-  "text": "questions will not appear in the review screen."
-}, {
-  "type": "text",
-  "text": "Your company has a Microsoft 365 subscription."
-}, {
-  "type": "text",
-  "text": "You plan to configure the environment to allow external users to collaborate in Microsoft Teams by using"
-}, {
-  "type": "text",
-  "text": "guest access."
-}, {
-  "type": "text",
-  "text": "The company implements a new security policy that has the following requirements:"
-}, {
-  "type": "text",
-  "text": "Only guest users from specific domains must be allowed to connect to collaborate by using Microsoft"
-}, {
-  "type": "text",
-  "text": "Teams."
-}, {
-  "type": "text",
-  "text": "Guest users must be prevented from inviting other guests."
-}, {
-  "type": "text",
-  "text": "You need to recommend a solution to meet the security policy requirements."
-}, {
-  "type": "text",
-  "text": "Solution: From PowerShell, you run the New-AzureADPolicy and Set-AzureADPolicy cmdlets."
-}, {
-  "type": "text",
-  "text": "Does this meet the goal?"
-}, {
-  "type": "img",
-  "src": "..."
-}, {
-  "type": "text",
-  "text": "302341CE5371968C6E29FD33D6E5E7D9"
-}, {
-  "type": "text",
-  "text": "A.Yes"
-}, {
-  "type": "text",
-  "text": "B.No"
-}, {
-  "type": "text",
-  "text": "Correct Answer: B"
-}, {
-  "type": "text",
-  "text": "Section: (none)"
-}, {
-  "type": "text",
-  "text": "Explanation"
-}, {
-  "type": "text",
-  "text": "Explanation/Reference:"
-}, {
-  "type": "text",
-  "text": "QUESTION 3"
-}, {
-  "type": "text",
-  "text": "Note: This question is part of a series of questions that present the same scenario. Each question"
-}, {
-  "type": "text",
-  "text": "in the series contains a unique solution that might meet the stated goals. Some question sets"
-}, {
-  "type": "text",
-  "text": "might have more than one correct solution, while others might not have a correct solution."
-}, {
-  "type": "text",
-  "text": "After you answer a question in this section, you will NOT be able to return to it. As a result, these"
-}, {
-  "type": "text",
-  "text": "questions will not appear in the review screen."
-}, {
-  "type": "text",
-  "text": "Your company has a Microsoft 365 subscription."
-}, {
-  "type": "text",
-  "text": "You plan to configure the environment to allow external users to collaborate in Microsoft Teams by using"
-}, {
-  "type": "text",
-  "text": "guest access."
-}, {
-  "type": "text",
-  "text": "The company implements a new security policy that has the following requirements:"
-}, {
-  "type": "text",
-  "text": "Only guest users from specific domains must be allowed to connect to collaborate by using Microsoft"
-}, {
-  "type": "text",
-  "text": "Teams."
-}, {
-  "type": "text",
-  "text": "Guest users must be prevented from inviting other guests."
-}, {
-  "type": "text",
-  "text": "You need to recommend a solution to meet the security policy requirements."
-}, {
-  "type": "text",
-  "text": "Solution: From the Azure Active Directory, you modify the External collaboration settings."
-}, {
-  "type": "text",
-  "text": "Does this meet the goal?"
-}, {
-  "type": "text",
-  "text": "A.Yes"
-}, {
-  "type": "text",
-  "text": "B.No"
-}, {
-  "type": "text",
-  "text": "Correct Answer: A"
-}, {
-  "type": "text",
-  "text": "Section: (none)"
-}, {
-  "type": "text",
-  "text": "Explanation"
-}, {
-  "type": "text",
-  "text": "Explanation/Reference:"
-}, {
-  "type": "text",
-  "text": "QUESTION 4"
-}, {
-  "type": "text",
-  "text": "Note: This question is part of a series of questions that present the same scenario. Each question"
-}, {
-  "type": "text",
-  "text": "in the series contains a unique solution that might meet the stated goals. Some question sets"
-}, {
-  "type": "text",
-  "text": "might have more than one correct solution, while others might not have a correct solution."
-}, {
-  "type": "text",
-  "text": "After you answer a question in this section, you will NOT be able to return to it. As a result, these"
-}, {
-  "type": "text",
-  "text": "questions will not appear in the review screen."
-}, {
-  "type": "text",
-  "text": "Your company has a Microsoft 365 subscription that uses an Azure Active Directory (Azure AD) tenant"
-}, {
-  "type": "text",
-  "text": "named contoso.com."
-}, {
-  "type": "text",
-  "text": "You need to prevent guest users in the tenant from using cameras during Microsoft Teams meetings."
-}, {
-  "type": "text",
-  "text": "Solution: From the Azure Active Directory admin center, you modify the External collaboration settings."
-}, {
-  "type": "text",
-  "text": "Does this meet the goal?"
-}, {
-  "type": "img",
-  "src": "..."
-}, {
-  "type": "text",
-  "text": "302341CE5371968C6E29FD33D6E5E7D9"
-}, {
-  "type": "text",
-  "text": ""
-}, {
-  "type": "text",
-  "text": "A.Yes"
-}, {
-  "type": "text",
-  "text": "B.No"
-}, {
-  "type": "text",
-  "text": "Correct Answer: B"
-}, {
-  "type": "text",
-  "text": "Section: (none)"
-}, {
-  "type": "text",
-  "text": "Explanation"
-}, {
-  "type": "text",
-  "text": "Explanation/Reference:"
-}, {
-  "type": "text",
-  "text": "Explanation:"
-}, {
-  "type": "text",
-  "text": "Guest access in Teams allows people outside you organization to access teams and channels. When you"
-}, {
-  "type": "text",
-  "text": "turn on Guest Access, you can turn on or off features guests users can or can&apos;t use."
+  "type": "question",
+  "title": "QUESTION 53",
+  "question": [{
+    "type": "text",
+    "text": "HOTSPOT You have a Microsoft 365 E5 subscription that uses Microsoft Teams and a hybrid deployment of Microsoft Skype for Business Server. Coexistence mode in Microsoft Teams is set to Islands. Coexistence mode is configured for three users named User1, User2, and User3 as shown in the following table. The Skype for Business user accounts are homed as shown in the following table. For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point. Hot Area: Correct Answer:  302341CE5371968C6E29FD33D6E5E7D9 Section: (none) Explanation Explanation/Reference: Reference:"
+  }, {
+    "type": "image",
+    "src": "..."
+  }],
+  "selections": [],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: "
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoftteams/coexistence-chat-calls-presence"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 54",
+  "question": [{
+    "type": "text",
+    "text": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company has 10 offices in North America and Europe.  The company has 5,000 users.  You plan to deploy Microsoft Teams for all the users.  You run a pilot project for the planned deployment.  You need to identify the network packet loss from the pilot computers to Microsoft Teams during calls. Solution: From the Microsoft Teams admin center, you run the Network Planner. Does this meet the goal?"
+  }],
+  "selections": [{
+    "type": "text",
+    "text": "A.Yes"
+  }, {
+    "type": "text",
+    "text": "B.No"
+  }],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: B"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Plan and Configure a Microsoft Teams Environment"
+  }, {
+    "type": "text",
+    "text": "Testlet 2"
+  }, {
+    "type": "text",
+    "text": "Case study"
+  }, {
+    "type": "text",
+    "text": "This is a case study. Case studies are not timed separately. You can use as much exam time as you"
+  }, {
+    "type": "text",
+    "text": "would like to complete each case. However, there may be additional case studies and sections on this"
+  }, {
+    "type": "text",
+    "text": "exam. You must manage your time to ensure that you are able to complete all questions included on this"
+  }, {
+    "type": "text",
+    "text": "exam in the time provided."
+  }, {
+    "type": "text",
+    "text": "To answer the questions included in a case study, you will need to reference information that is provided in"
+  }, {
+    "type": "text",
+    "text": "the case study. Case studies might contain exhibits and other resources that provide more information"
+  }, {
+    "type": "text",
+    "text": "about the scenario that is described in the case study. Each question is independent of the other questions"
+  }, {
+    "type": "text",
+    "text": "in this case study."
+  }, {
+    "type": "text",
+    "text": "At the end of this case study, a review screen will appear. This screen allows you to review your answers"
+  }, {
+    "type": "text",
+    "text": "and to make changes before you move to the next section of the exam. After you begin a new section, you"
+  }, {
+    "type": "text",
+    "text": "cannot return to this section."
+  }, {
+    "type": "text",
+    "text": "To start the case study"
+  }, {
+    "type": "text",
+    "text": "To display the first question in this case study, click the Next button. Use the buttons in the left pane to"
+  }, {
+    "type": "text",
+    "text": "explore the content of the case study before you answer the questions. Clicking these buttons displays"
+  }, {
+    "type": "text",
+    "text": "information such as business requirements, existing environment, and problem statements. If the case"
+  }, {
+    "type": "text",
+    "text": "study has an All Information tab, note that the information displayed is identical to the information"
+  }, {
+    "type": "text",
+    "text": "displayed on the subsequent tabs. When you are ready to answer a question, click the Question button to"
+  }, {
+    "type": "text",
+    "text": "return to the question."
+  }, {
+    "type": "text",
+    "text": "Overview"
+  }, {
+    "type": "text",
+    "text": "Contoso, Ltd. is a pharmaceutical company that has 3,000 users in offices across North America."
+  }, {
+    "type": "text",
+    "text": "Existing Environment"
+  }, {
+    "type": "text",
+    "text": "Active Directory"
+  }, {
+    "type": "text",
+    "text": "The network contains an on-premises Active Directory domain. All user accounts are in departmental"
+  }, {
+    "type": "text",
+    "text": "organizational units (OUs)."
+  }, {
+    "type": "text",
+    "text": "Microsoft Office 365"
+  }, {
+    "type": "text",
+    "text": "All users are assigned a Microsoft Office 365 E5 license and are enabled for the following services:"
+  }, {
+    "type": "text",
+    "text": "Microsoft Yammer"
+  }, {
+    "type": "text",
+    "text": "Microsoft Exchange Online"
+  }, {
+    "type": "text",
+    "text": "Microsoft SharePoint Online"
+  }, {
+    "type": "text",
+    "text": "Microsoft OneDrive for Business"
+  }, {
+    "type": "text",
+    "text": "Azure Active Directory (Azure AD)"
+  }, {
+    "type": "text",
+    "text": "Azure AD dynamic group membership"
+  }, {
+    "type": "text",
+    "text": "Microsoft Skype for Business"
+  }, {
+    "type": "text",
+    "text": "Contoso has an on-premises deployment of Microsoft Skype for Business Server 2015. All the latest"
+  }, {
+    "type": "text",
+    "text": "cumulative updates are installed on all the servers. The following services are used in Skype for Business"
+  }, {
+    "type": "text",
+    "text": "Server 2015:"
+  }, {
+    "type": "text",
+    "text": "Meetings"
+  }, {
+    "type": "text",
+    "text": "PSTN calling"
+  }, {
+    "type": "text",
+    "text": "Instant messaging (IM)"
+  }, {
+    "type": "text",
+    "text": "Federation to external companies"
+  }, {
+    "type": "text",
+    "text": "Departments"
+  }, {
+    "type": "text",
+    "text": "Contoso has the following departments:"
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "IT"
+  }, {
+    "type": "text",
+    "text": "Sales"
+  }, {
+    "type": "text",
+    "text": "Human resources (HR)"
+  }, {
+    "type": "text",
+    "text": "Research and development (R&amp;D)"
+  }, {
+    "type": "text",
+    "text": "All groups are created by using dynamic group membership that use the department attribute."
+  }, {
+    "type": "text",
+    "text": "Requirements"
+  }, {
+    "type": "text",
+    "text": "Business Goals"
+  }, {
+    "type": "text",
+    "text": "Contoso identifies the following business goals:"
+  }, {
+    "type": "text",
+    "text": "Migrate the maximum number of users to Microsoft Teams."
+  }, {
+    "type": "text",
+    "text": "Minimize administrative effort."
+  }, {
+    "type": "text",
+    "text": "Device Requirements"
+  }, {
+    "type": "text",
+    "text": "Contoso identifies the following device requirements:"
+  }, {
+    "type": "text",
+    "text": "Replace Skype for Business IP phones with Microsoft Teams phones."
+  }, {
+    "type": "text",
+    "text": "All Microsoft Teams phones must be set to lock automatically after 60 seconds."
+  }, {
+    "type": "text",
+    "text": "Meeting and Live Event Requirements"
+  }, {
+    "type": "text",
+    "text": "Contoso identifies the following meeting and live event requirements:"
+  }, {
+    "type": "text",
+    "text": "Requirement1: Guest users must be able to join live events."
+  }, {
+    "type": "text",
+    "text": "Requirement2: Guest users must always wait in a meeting lobby."
+  }, {
+    "type": "text",
+    "text": "Requirement3: Contoso users must always bypass the meeting lobby when they join meetings by using"
+  }, {
+    "type": "text",
+    "text": "the Microsoft Teams client."
+  }, {
+    "type": "text",
+    "text": "Requirement4: After the upgrade to Microsoft Teams, all meetings must be scheduled by using"
+  }, {
+    "type": "text",
+    "text": "Microsoft Teams."
+  }, {
+    "type": "text",
+    "text": "Calling Requirements"
+  }, {
+    "type": "text",
+    "text": "Contoso identifies the following calling requirements:"
+  }, {
+    "type": "text",
+    "text": "Migrate all existing auto attendants and response groups to Office 365."
+  }, {
+    "type": "text",
+    "text": "Minimize the on-premises PSTN infrastructure."
+  }, {
+    "type": "text",
+    "text": "Technical Requirements"
+  }, {
+    "type": "text",
+    "text": "Guest users must be prevented from making private calls."
+  }, {
+    "type": "text",
+    "text": "Security Requirements"
+  }, {
+    "type": "text",
+    "text": "Contoso has the following security requirements for the Microsoft Teams deployment:"
+  }, {
+    "type": "text",
+    "text": "The number of ports allowed on the company’s firewall must be limited."
+  }, {
+    "type": "text",
+    "text": "Team names must be prevented from containing the name of any products produced by Contoso."
+  }, {
+    "type": "text",
+    "text": "Users in the R&amp;D group must be prevented from sending chat messages to users in other departments."
+  }, {
+    "type": "text",
+    "text": "To meet the company’s compliance policy, users in the sales department must continue to use on-"
+  }, {
+    "type": "text",
+    "text": "premises Skype for Business for IM and calling only."
+  }, {
+    "type": "text",
+    "text": "Pilot Project"
+  }, {
+    "type": "text",
+    "text": "Contoso begins a pilot project for the upgrade to Microsoft Teams."
+  }, {
+    "type": "text",
+    "text": "You identify the following issues during the pilot project:"
+  }, {
+    "type": "text",
+    "text": "Microsoft Teams users report that they often receive continuous notifications from the Microsoft Teams"
+  }, {
+    "type": "text",
+    "text": "client for 20 minutes."
+  }, {
+    "type": "text",
+    "text": "Two pilot users in the HR department report that they are not members of the HR team."
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 1",
+  "question": [{
+    "type": "text",
+    "text": "You need to configure the environment to meet the security requirements for the R&amp;D group. What should you do first?"
+  }],
+  "selections": [{
+    "type": "text",
+    "text": "A.Start the information barrier policy application."
+  }, {
+    "type": "text",
+    "text": "B.Add an identity provider."
+  }, {
+    "type": "text",
+    "text": "C.Create two information barrier segments."
+  }, {
+    "type": "text",
+    "text": "D.Create one information barrier policy."
+  }],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: C"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Explanation:"
+  }, {
+    "type": "text",
+    "text": "Create information barrier segments first, then create information barrier policy based on the segments then start the information barrier application."
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 2",
+  "question": [{
+    "type": "text",
+    "text": "You need to configure the user accounts of the sales department users to meet the security requirements. What should you do for each user?"
+  }],
+  "selections": [{
+    "type": "text",
+    "text": "A.From the Microsoft Teams admin center, set the Microsoft Teams upgrade policy to Skype for"
+  }, {
+    "type": "text",
+    "text": "Business with Teams collaboration and meetings coexistence mode."
+  }, {
+    "type": "text",
+    "text": "B.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyName"
+  }, {
+    "type": "text",
+    "text": "SfBWithTeamsCollab cmdlet."
+  }, {
+    "type": "text",
+    "text": "C.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyName Islands cmdlet."
+  }, {
+    "type": "text",
+    "text": "D.From the Microsoft Teams admin center, set the Microsoft Teams upgrade policy to Skype for"
+  }, {
+    "type": "text",
+    "text": "Business only coexistence mode."
+  }, {
+    "type": "text",
+    "text": "E.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyName"
+  }, {
+    "type": "text",
+    "text": "SfBWithTeamsCollabAndMeeting cmdlet."
+  }],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: E"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoftteams/teams-and-skypeforbusiness-coexistence-and-"
+  }, {
+    "type": "text",
+    "text": "interoperability"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 3",
+  "question": [{
+    "type": "text",
+    "text": "HOTSPOT You need to recommend which inbound ports to the network and outbound ports to Office 365 must be allowed on the company’s firewall after the planned upgrade. The solution must meet the security requirements.  Which inbound and outbound ports should you recommend? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: 302341CE5371968C6E29FD33D6E5E7D9 Correct Answer:  302341CE5371968C6E29FD33D6E5E7D9 Section: (none) Explanation Explanation/Reference: Reference: https://docs.microsoft.com/en-us/microsoftteams/microsoft-teams-online-call-flows"
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "image",
+    "src": "..."
+  }],
+  "selections": [],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: "
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoftteams/microsoft-teams-online-call-flows"
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 4",
+  "question": [{
+    "type": "text",
+    "text": "You need to configure the environment to meet the security requirements for team names. What should you do?"
+  }],
+  "selections": [{
+    "type": "text",
+    "text": "A.From the Security &amp; Compliance admin center, create a sensitivity label and a sensitivity policy."
+  }, {
+    "type": "text",
+    "text": "B.From the Microsoft Teams admin center, modify the Teams setting policies."
+  }, {
+    "type": "text",
+    "text": "C.From the Azure Active Directory admin center, upload a blocked word list for the group naming policy."
+  }],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: C"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-naming-policy"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 5",
+  "question": [{
+    "type": "text",
+    "text": "You need to configure the environment to meet the device requirements for the Microsoft Teams phones. What should you do from the Microsoft Teams admin center?"
+  }],
+  "selections": [{
+    "type": "text",
+    "text": "A.Create a configuration profile"
+  }, {
+    "type": "text",
+    "text": "B.Modify the Teams settings"
+  }, {
+    "type": "text",
+    "text": "C.Create a meeting policy"
+  }, {
+    "type": "text",
+    "text": "D.Create a calling policy"
+  }],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: A"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoftteams/devices/device-management"
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "text",
+    "text": ""
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Plan and Configure a Microsoft Teams Environment"
+  }, {
+    "type": "text",
+    "text": "Testlet 3"
+  }, {
+    "type": "text",
+    "text": "Case study"
+  }, {
+    "type": "text",
+    "text": "This is a case study. Case studies are not timed separately. You can use as much exam time as you"
+  }, {
+    "type": "text",
+    "text": "would like to complete each case. However, there may be additional case studies and sections on this"
+  }, {
+    "type": "text",
+    "text": "exam. You must manage your time to ensure that you are able to complete all questions included on this"
+  }, {
+    "type": "text",
+    "text": "exam in the time provided."
+  }, {
+    "type": "text",
+    "text": "To answer the questions included in a case study, you will need to reference information that is provided in"
+  }, {
+    "type": "text",
+    "text": "the case study. Case studies might contain exhibits and other resources that provide more information"
+  }, {
+    "type": "text",
+    "text": "about the scenario that is described in the case study. Each question is independent of the other questions"
+  }, {
+    "type": "text",
+    "text": "in this case study."
+  }, {
+    "type": "text",
+    "text": "At the end of this case study, a review screen will appear. This screen allows you to review your answers"
+  }, {
+    "type": "text",
+    "text": "and to make changes before you move to the next section of the exam. After you begin a new section, you"
+  }, {
+    "type": "text",
+    "text": "cannot return to this section."
+  }, {
+    "type": "text",
+    "text": "To start the case study"
+  }, {
+    "type": "text",
+    "text": "To display the first question in this case study, click the Next button. Use the buttons in the left pane to"
+  }, {
+    "type": "text",
+    "text": "explore the content of the case study before you answer the questions. Clicking these buttons displays"
+  }, {
+    "type": "text",
+    "text": "information such as business requirements, existing environment, and problem statements. If the case"
+  }, {
+    "type": "text",
+    "text": "study has an All Information tab, note that the information displayed is identical to the information"
+  }, {
+    "type": "text",
+    "text": "displayed on the subsequent tabs. When you are ready to answer a question, click the Question button to"
+  }, {
+    "type": "text",
+    "text": "return to the question."
+  }, {
+    "type": "text",
+    "text": "Overview"
+  }, {
+    "type": "text",
+    "text": "General Overview"
+  }, {
+    "type": "text",
+    "text": "Litware, Inc. is an international manufacturing company that has 4,000 users. The company has the"
+  }, {
+    "type": "text",
+    "text": "following four departments:"
+  }, {
+    "type": "text",
+    "text": "IT"
+  }, {
+    "type": "text",
+    "text": "HR"
+  }, {
+    "type": "text",
+    "text": "R&amp;D"
+  }, {
+    "type": "text",
+    "text": "Sales"
+  }, {
+    "type": "text",
+    "text": "Physical Locations"
+  }, {
+    "type": "text",
+    "text": "Litware has two main offices. The offices are located in New York and London."
+  }, {
+    "type": "text",
+    "text": "All offices connect to each other by using a WAN link. Each office connects directly to the Internet."
+  }, {
+    "type": "text",
+    "text": "Existing Environment"
+  }, {
+    "type": "text",
+    "text": "All user accounts have an Azure Active Directory Premium Plan P1 license."
+  }, {
+    "type": "text",
+    "text": "Litware has a Microsoft 365 subscription that has Office 365 Enterprise E3 licenses for all users. All the E3"
+  }, {
+    "type": "text",
+    "text": "products and services are enabled for each user."
+  }, {
+    "type": "text",
+    "text": "Litware uses Microsoft Skype for Business Online."
+  }, {
+    "type": "text",
+    "text": "Requirements"
+  }, {
+    "type": "text",
+    "text": "Planned Upgrade"
+  }, {
+    "type": "text",
+    "text": "Litware identifies the following requirements for a planned upgrade from Skype for Business Online to"
+  }, {
+    "type": "text",
+    "text": "Microsoft Teams:"
+  }, {
+    "type": "text",
+    "text": "Provide high quality audio, video, and online meeting experience for Microsoft Teams end users."
+  }, {
+    "type": "text",
+    "text": "Implement a data retention solution in Microsoft Teams."
+  }, {
+    "type": "text",
+    "text": "Minimize costs and administrative effort."
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Use the principle of least privilege."
+  }, {
+    "type": "text",
+    "text": "For the sales department, Litware plans to create a team that dynamically updates its membership when"
+  }, {
+    "type": "text",
+    "text": "users leave and join the department."
+  }, {
+    "type": "text",
+    "text": "Department Upgrade Requirements"
+  }, {
+    "type": "text",
+    "text": "Litware plans to implement upgrade requirements for the departments as shown in the following table."
+  }, {
+    "type": "text",
+    "text": "Microsoft Teams Requirements"
+  }, {
+    "type": "text",
+    "text": "All teams must meet the following requirements:"
+  }, {
+    "type": "text",
+    "text": "Only users in a partner company that uses a domain named fabrikam.com must be able to collaborate"
+  }, {
+    "type": "text",
+    "text": "in teams by using guest accounts."
+  }, {
+    "type": "text",
+    "text": "Only users in the compliance department of Litware must be able to create teams."
+  }, {
+    "type": "text",
+    "text": "Planned Network Tasks"
+  }, {
+    "type": "text",
+    "text": "Litware identifies the following network validation tasks:"
+  }, {
+    "type": "text",
+    "text": "An administrator named Admin5 must be able to review the required bandwidth to support audio"
+  }, {
+    "type": "text",
+    "text": "conferencing, video conferencing, and screen sharing in Microsoft Teams."
+  }, {
+    "type": "text",
+    "text": "An administrator named Admin6 must be able to review network issues that cause poor call quality"
+  }, {
+    "type": "text",
+    "text": "reported by users."
+  }, {
+    "type": "text",
+    "text": "Data Retention Requirements"
+  }, {
+    "type": "text",
+    "text": "Litware identifies the following data retention requirements:"
+  }, {
+    "type": "text",
+    "text": "Requirement1: All messages in team collaborations must be deleted after seven years."
+  }, {
+    "type": "text",
+    "text": "Requirement2: all files used in team collaborations must be retained for five years."
+  }, {
+    "type": "text",
+    "text": "Requirement3: All files used in personal chats must be retained for five years."
+  }, {
+    "type": "text",
+    "text": "Device Requirements"
+  }, {
+    "type": "text",
+    "text": "You provide Microsoft Teams-certified IP phones to users in the IT and R&amp;D departments. Each device"
+  }, {
+    "type": "text",
+    "text": "must meet the following requirements:"
+  }, {
+    "type": "text",
+    "text": "The time zone on the phones used by the R&amp;D department must be set to UTC-8."
+  }, {
+    "type": "text",
+    "text": "The time zone on the phones used by the IT department must be set to UTC-5."
+  }, {
+    "type": "text",
+    "text": "All phones must lock automatically after 60 seconds of inactivity."
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Voice Pilot Requirements"
+  }, {
+    "type": "text",
+    "text": "Litware wants to pilot Phone System as a calling solution for 20 IT department users. The pilot project will"
+  }, {
+    "type": "text",
+    "text": "receive phone numbers from Microsoft."
+  }, {
+    "type": "text",
+    "text": "Collaboration and Meeting Requirements"
+  }, {
+    "type": "text",
+    "text": "Litware identifies the following collaboration and meeting requirements:"
+  }, {
+    "type": "text",
+    "text": "Cloud recording must be disabled for all Microsoft Teams meetings organized by users in the HR"
+  }, {
+    "type": "text",
+    "text": "departments only."
+  }, {
+    "type": "text",
+    "text": "Meeting email invitations must be customized to include the Logo URL, Legal URL, and Help URL of"
+  }, {
+    "type": "text",
+    "text": "Litware."
+  }]
 }]
