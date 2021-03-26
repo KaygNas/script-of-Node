@@ -1,0 +1,211 @@
+[{
+  "type": "text",
+  "text": "Explanation/Reference:"
+}, {
+  "type": "text",
+  "text": "QUESTION 2"
+}, {
+  "type": "text",
+  "text": "Note: This question is part of a series of questions that present the same scenario. Each question"
+}, {
+  "type": "text",
+  "text": "in the series contains a unique solution that might meet the stated goals. Some question sets"
+}, {
+  "type": "text",
+  "text": "might have more than one correct solution, while others might not have a correct solution."
+}, {
+  "type": "text",
+  "text": "After you answer a question in this section, you will NOT be able to return to it. As a result, these"
+}, {
+  "type": "text",
+  "text": "questions will not appear in the review screen."
+}, {
+  "type": "text",
+  "text": "Your company has a Microsoft 365 subscription."
+}, {
+  "type": "text",
+  "text": "You plan to configure the environment to allow external users to collaborate in Microsoft Teams by using"
+}, {
+  "type": "text",
+  "text": "guest access."
+}, {
+  "type": "text",
+  "text": "The company implements a new security policy that has the following requirements:"
+}, {
+  "type": "text",
+  "text": "Only guest users from specific domains must be allowed to connect to collaborate by using Microsoft"
+}, {
+  "type": "text",
+  "text": "Teams."
+}, {
+  "type": "text",
+  "text": "Guest users must be prevented from inviting other guests."
+}, {
+  "type": "text",
+  "text": "You need to recommend a solution to meet the security policy requirements."
+}, {
+  "type": "text",
+  "text": "Solution: From PowerShell, you run the New-AzureADPolicy and Set-AzureADPolicy cmdlets."
+}, {
+  "type": "text",
+  "text": "Does this meet the goal?"
+}, {
+  "type": "img",
+  "src": "..."
+}, {
+  "type": "text",
+  "text": "302341CE5371968C6E29FD33D6E5E7D9"
+}, {
+  "type": "text",
+  "text": "A.Yes"
+}, {
+  "type": "text",
+  "text": "B.No"
+}, {
+  "type": "text",
+  "text": "Correct Answer: B"
+}, {
+  "type": "text",
+  "text": "Section: (none)"
+}, {
+  "type": "text",
+  "text": "Explanation"
+}, {
+  "type": "text",
+  "text": "Explanation/Reference:"
+}, {
+  "type": "text",
+  "text": "QUESTION 3"
+}, {
+  "type": "text",
+  "text": "Note: This question is part of a series of questions that present the same scenario. Each question"
+}, {
+  "type": "text",
+  "text": "in the series contains a unique solution that might meet the stated goals. Some question sets"
+}, {
+  "type": "text",
+  "text": "might have more than one correct solution, while others might not have a correct solution."
+}, {
+  "type": "text",
+  "text": "After you answer a question in this section, you will NOT be able to return to it. As a result, these"
+}, {
+  "type": "text",
+  "text": "questions will not appear in the review screen."
+}, {
+  "type": "text",
+  "text": "Your company has a Microsoft 365 subscription."
+}, {
+  "type": "text",
+  "text": "You plan to configure the environment to allow external users to collaborate in Microsoft Teams by using"
+}, {
+  "type": "text",
+  "text": "guest access."
+}, {
+  "type": "text",
+  "text": "The company implements a new security policy that has the following requirements:"
+}, {
+  "type": "text",
+  "text": "Only guest users from specific domains must be allowed to connect to collaborate by using Microsoft"
+}, {
+  "type": "text",
+  "text": "Teams."
+}, {
+  "type": "text",
+  "text": "Guest users must be prevented from inviting other guests."
+}, {
+  "type": "text",
+  "text": "You need to recommend a solution to meet the security policy requirements."
+}, {
+  "type": "text",
+  "text": "Solution: From the Azure Active Directory, you modify the External collaboration settings."
+}, {
+  "type": "text",
+  "text": "Does this meet the goal?"
+}, {
+  "type": "text",
+  "text": "A.Yes"
+}, {
+  "type": "text",
+  "text": "B.No"
+}, {
+  "type": "text",
+  "text": "Correct Answer: A"
+}, {
+  "type": "text",
+  "text": "Section: (none)"
+}, {
+  "type": "text",
+  "text": "Explanation"
+}, {
+  "type": "text",
+  "text": "Explanation/Reference:"
+}, {
+  "type": "text",
+  "text": "QUESTION 4"
+}, {
+  "type": "text",
+  "text": "Note: This question is part of a series of questions that present the same scenario. Each question"
+}, {
+  "type": "text",
+  "text": "in the series contains a unique solution that might meet the stated goals. Some question sets"
+}, {
+  "type": "text",
+  "text": "might have more than one correct solution, while others might not have a correct solution."
+}, {
+  "type": "text",
+  "text": "After you answer a question in this section, you will NOT be able to return to it. As a result, these"
+}, {
+  "type": "text",
+  "text": "questions will not appear in the review screen."
+}, {
+  "type": "text",
+  "text": "Your company has a Microsoft 365 subscription that uses an Azure Active Directory (Azure AD) tenant"
+}, {
+  "type": "text",
+  "text": "named contoso.com."
+}, {
+  "type": "text",
+  "text": "You need to prevent guest users in the tenant from using cameras during Microsoft Teams meetings."
+}, {
+  "type": "text",
+  "text": "Solution: From the Azure Active Directory admin center, you modify the External collaboration settings."
+}, {
+  "type": "text",
+  "text": "Does this meet the goal?"
+}, {
+  "type": "img",
+  "src": "..."
+}, {
+  "type": "text",
+  "text": "302341CE5371968C6E29FD33D6E5E7D9"
+}, {
+  "type": "text",
+  "text": ""
+}, {
+  "type": "text",
+  "text": "A.Yes"
+}, {
+  "type": "text",
+  "text": "B.No"
+}, {
+  "type": "text",
+  "text": "Correct Answer: B"
+}, {
+  "type": "text",
+  "text": "Section: (none)"
+}, {
+  "type": "text",
+  "text": "Explanation"
+}, {
+  "type": "text",
+  "text": "Explanation/Reference:"
+}, {
+  "type": "text",
+  "text": "Explanation:"
+}, {
+  "type": "text",
+  "text": "Guest access in Teams allows people outside you organization to access teams and channels. When you"
+}, {
+  "type": "text",
+  "text": "turn on Guest Access, you can turn on or off features guests users can or can&apos;t use."
+}]

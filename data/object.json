@@ -1,0 +1,49 @@
+[{
+  "name": "HOSTNAME",
+  "value": "eldemo.azurewebsites.net",
+  "slotSetting": false
+}, {
+  "name": "OAUTH_REDIRECT_URI",
+  "value": "https://eldemo.azurewebsites.net/auth/callback",
+  "slotSetting": false
+}, {
+  "name": "OAUTH_SCOPES",
+  "value": "Sites.Read.All",
+  "slotSetting": false
+}, {
+  "name": "OAUTH_AUTHORITY",
+  "value": "https://login.microsoftonline.com/common/oauth2/v2.0",
+  "slotSetting": false
+}, {
+  "name": "APPLICATION_ID",
+  "value": "c9198740-5b8a-11eb-bd8e-d10cb0a8d31c",
+  "slotSetting": false
+}, {
+  "name": "MICROSOFT_APP_ID",
+  "value": "9d4d97a7-9728-4392-99d3-5081afdd7d89",
+  "slotSetting": false
+}, {
+  "name": "MICROSOFT_APP_PASSWORD",
+  "value": "cu21~sERcH9F7wLEAUouH4Hu0_~27_~v4D",
+  "slotSetting": false
+}, {
+  "name": "PORT",
+  "value": "3007",
+  "slotSetting": false
+}, {
+  "name": "DB_USERNAME",
+  "value": "hcj",
+  "slotSetting": false
+}, {
+  "name": "DB_PASSWORD",
+  "value": "btic#12345",
+  "slotSetting": false
+}, {
+  "name": "DB_HOSTNAME",
+  "value": "cluster-demo.yzplj.mongodb.net",
+  "slotSetting": false
+}, {
+  "name": "DB_DATABASE_NAME",
+  "value": "teams-E-Learning",
+  "slotSetting": false
+}]

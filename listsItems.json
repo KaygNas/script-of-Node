@@ -1,0 +1,2194 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items(id,fields(id,title,imgurl,videourl,category,modified,details))",
+  "value": [{
+      "@odata.etag": "\"ac668cf6-f712-4f73-a787-e863d652cdba,21\"",
+      "id": "1",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('1')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"ac668cf6-f712-4f73-a787-e863d652cdba,21\"",
+        "id": "1",
+        "Title": "由工作触发的私聊和群聊",
+        "Modified": "2021-02-23T09:20:05Z",
+        "Details": "Microsoft Teams不仅可以让您在特定团队内部进行消息沟通，还为企业提供了最核心的即时消息沟通平台，让每一位同事可以随时遇到问题、找到正确的人、发起一对一或多人群聊沟通。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（86）由工作触发的私聊和群聊（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wRei",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"d72d8ed2-967f-4fd2-b198-b668477cca03,1\"",
+      "id": "2",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('2')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"d72d8ed2-967f-4fd2-b198-b668477cca03,1\"",
+        "id": "2",
+        "Title": "在地图中分析 Excel 大数据",
+        "Modified": "2020-09-18T09:21:01Z",
+        "Details": "俗话说“一图胜千文“，为了更好地表达业务分析结果，我们通常会使用Excel 图表进行数据展示。在Excel 中，为我们提供了丰富的数据图表展示方案，而三维地图就是一个新增加的动态数据智能分析服务。 ",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_026.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2v5gV",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"86f788d1-7b2d-4cc2-98c0-f929c4c5531d,1\"",
+      "id": "3",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('3')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"86f788d1-7b2d-4cc2-98c0-f929c4c5531d,1\"",
+        "id": "3",
+        "Title": "轻松应对文档中的语言关",
+        "Modified": "2020-09-18T09:21:02Z",
+        "Details": "随着国际化交流越来越多，很多企业将业务合作扩展到了海外，每一位办公人员势必会面临与海外客户、同事之间的语言交流。在Office 365 您最熟悉的客户端组建中，已经提供了专业的翻译服务，让您轻松面对办公文档中的语言关。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_029.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2v2Bn",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"9823ef1d-34fc-4304-a534-42efd0489b2a,1\"",
+      "id": "4",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('4')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9823ef1d-34fc-4304-a534-42efd0489b2a,1\"",
+        "id": "4",
+        "Title": "一键生成 PPT 演示文稿",
+        "Modified": "2020-09-18T09:21:03Z",
+        "Details": "制作PowerPoint 演示文稿往往我们有非常多的原始资料希望展示在演示文稿中。例如一份已经编辑好的Word 文档，我们如何迅速地将Word 文档中的内容放到PowerPoint 中呢？其实，我们在Word 中可以一键生成PowerPoint 演示文稿。 ",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_030.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2vavy",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"df24300d-a385-4b87-9f41-c888179a3d7e,1\"",
+      "id": "5",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('5')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"df24300d-a385-4b87-9f41-c888179a3d7e,1\"",
+        "id": "5",
+        "Title": "3D 模型在演示文稿中的应用",
+        "Modified": "2020-09-18T09:21:04Z",
+        "Details": "在以前进行方案展示时，我们更多的是在PowerPoint 中借助图片进行说明。现在非常多的企业在拥抱最先进的技术，例如3D 模型、3D 打印、虚拟现实等。您的这些新技术现在也可以在PowerPoint 中进行展示了。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_031.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2vfET",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"1bd6ca31-b9a9-4bc8-a8cc-74aa3679d841,1\"",
+      "id": "6",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('6')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"1bd6ca31-b9a9-4bc8-a8cc-74aa3679d841,1\"",
+        "id": "6",
+        "Title": "专业的演示文稿设计理念",
+        "Modified": "2020-09-18T09:21:06Z",
+        "Details": "一份专业的演示文稿，里面一定包含了很多相关的图片和文字资料。但是，将这些素材整理为更加美观的展示，往往都是耗时耗力的工作。下面，让我们一起了解如何借助PowerPoint 设计理念功能快速完成专业演示文稿的制作。 ",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_032.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2v2Bo",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"6aac026d-5bb1-4232-81c0-57408253f164,1\"",
+      "id": "7",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('7')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"6aac026d-5bb1-4232-81c0-57408253f164,1\"",
+        "id": "7",
+        "Title": "Stream 中的视频智能分析",
+        "Modified": "2020-09-18T09:21:07Z",
+        "Details": "在日常工作中，我们经常会在团队内部分享视频资料，但是，在企业内部构建视频管理与在线播放的网站不是一件容易的事。现在，Office 365 中的Stream 应用，为我们提供了团队的视频管理与共享空间，而且可以进行智能的分析处理。 ",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_033.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2vavF",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"ff6fc39d-1d8e-4b63-a63d-5d0d0d0f11dc,1\"",
+      "id": "8",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('8')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"ff6fc39d-1d8e-4b63-a63d-5d0d0d0f11dc,1\"",
+        "id": "8",
+        "Title": "Excel 超智能数据填充术",
+        "Modified": "2020-09-18T09:21:08Z",
+        "Details": "在日常办公中，很多业务人员都在使用Excel 进行数据分析，为了得到最佳的分析结果，数据的有效梳理是非常重要的。Excel 的快速填充能力，他可以自动识别您在Excel 中的数据处理规律，并将该规律套用到相关单元格中。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_034.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2v5fF",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"f6f40ce2-d534-4092-91e1-28c7fe6e00b1,1\"",
+      "id": "9",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('9')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"f6f40ce2-d534-4092-91e1-28c7fe6e00b1,1\"",
+        "id": "9",
+        "Title": "找不到命令就直接问它",
+        "Modified": "2020-09-18T09:21:08Z",
+        "Details": "在使用Office 的每个组件时，我们都会有相同的感受，我相信Office 一定可以帮我做到，但我就是不知道应该使用哪个命令。而现在，每个Office 组件中都包含了告诉我的搜索框，您可以用最自然的语言将需求告诉Office。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_035.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2v5gR",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"de3a56d6-95a2-499b-a750-9b9c60cdcfdb,1\"",
+      "id": "10",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('10')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"de3a56d6-95a2-499b-a750-9b9c60cdcfdb,1\"",
+        "id": "10",
+        "Title": "智能收集并识别笔记信息",
+        "Modified": "2020-09-18T09:21:10Z",
+        "Details": "OneNote 为我们提供了万用的电子笔记本，我们可以借助OneNote 记录所有看到的和听到的信息，将键盘输入的文字、屏幕的截图、录制的声音和视频都保存在笔记本空间中。为我们日常办公中的笔记记录和整理提供了最大的便利。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_036.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2vaxv",
+        "Category": "OneNote"
+      }
+    },
+    {
+      "@odata.etag": "\"3ab174e0-d84e-4498-ac73-d37e7c3b4ae0,1\"",
+      "id": "11",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('11')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"3ab174e0-d84e-4498-ac73-d37e7c3b4ae0,1\"",
+        "id": "11",
+        "Title": "商务演讲中的同声传译团",
+        "Modified": "2020-09-18T09:21:12Z",
+        "Details": "在日常工作中，我们会面临与海外客户或工作团队进行演示报告的可能。但我们无法支付高昂的人工同声传译费用，那该如何解决语言障碍呢。 其实，在您最熟悉的PowerPoint 中已经为我们提供了商务演讲中的同声传译。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_037.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2v2CV",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"9b6779dc-8bec-4f2a-afa9-51f3d22fc8fa,1\"",
+      "id": "12",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('12')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9b6779dc-8bec-4f2a-afa9-51f3d22fc8fa,1\"",
+        "id": "12",
+        "Title": "利用缩放定位完美控制演示内容",
+        "Modified": "2020-09-18T09:21:12Z",
+        "Details": "在PowerPoint中，您可以借助缩放定位的功能，轻松跳转到指定幻灯片，既能够灵活地选择演讲内容，又不打破我们演讲整体的连贯性，使演示文稿更加生动，让您的演讲更加精彩。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_040.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2FZSX",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"9ed46034-eec4-441b-83bc-99c248893b11,2\"",
+      "id": "13",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('13')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9ed46034-eec4-441b-83bc-99c248893b11,2\"",
+        "id": "13",
+        "Title": "精确比较Excel数据文件的差异",
+        "Modified": "2021-02-07T14:05:05Z",
+        "Details": "Inquire作为Excel的内置加载项，可以帮助我们进行工作簿分析、工作表分析，以及Excel文件比较等功能，可以帮助我们快速且精确实现工作簿文件的比对，将数据差异即刻呈现给我们，可以说是数据分析的一个利器。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_041.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2FZSY",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"7ae44bc2-6ea1-45c8-adfa-5f46d57d7b51,1\"",
+      "id": "14",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('14')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"7ae44bc2-6ea1-45c8-adfa-5f46d57d7b51,1\"",
+        "id": "14",
+        "Title": "让OneNote智能记录阅读位置",
+        "Modified": "2020-09-18T09:21:15Z",
+        "Details": "我们很多人都有一致的阅读和记录笔记的习惯，就是一边阅读，一边针对关键的内容进行笔记记录，而这种习惯在OneNote中也可以得到完美应用。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_042.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2FPDf",
+        "Category": "OneNote"
+      }
+    },
+    {
+      "@odata.etag": "\"971f5ca1-d56a-4615-a8a8-14c5fe449e7a,1\"",
+      "id": "15",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('15')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"971f5ca1-d56a-4615-a8a8-14c5fe449e7a,1\"",
+        "id": "15",
+        "Title": "邮件附件的安身之所",
+        "Modified": "2020-09-18T09:21:18Z",
+        "Details": "Outlook可以与Office 365中的OneDrive for Business个人网盘，以及SharePoint Online提供的团队空间有密切的关联，他们都为重要的文件提供了安身之处，让您和您的团队在实现文件资源管理时变得更加安全、有序、高效。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_043.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2FKiD",
+        "Category": "Outlook"
+      }
+    },
+    {
+      "@odata.etag": "\"34913aaa-dc7e-42bc-9455-8aea2aafcd18,1\"",
+      "id": "16",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('16')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"34913aaa-dc7e-42bc-9455-8aea2aafcd18,1\"",
+        "id": "16",
+        "Title": "任意裁剪PowerPoint中的图片形状",
+        "Modified": "2020-09-18T09:21:18Z",
+        "Details": "我们经常使用PowerPoint进行方案展示，为了让演示文稿更加丰富精彩，都会借助一些图片来表达我们的观点。为此，我们可能需要对图片进行进一步的加工。现在，我们将为您介绍PowerPoint中内置的专业图片编辑工具。 ",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_048.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KwCh",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"e78448de-fbe0-4c93-875f-6924b7d4214d,1\"",
+      "id": "17",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('17')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"e78448de-fbe0-4c93-875f-6924b7d4214d,1\"",
+        "id": "17",
+        "Title": "共享文件权限的完美操控",
+        "Modified": "2020-09-18T09:21:20Z",
+        "Details": "OneDrive for Business为Office 365用户提供了一个超大的网盘空间，您可以在这个企业级空间中安全管理个人文档资料，并依据不同的访问权限对内或对外分享文件信息。现在，我们将为您介绍如何对同一份文档设置不同的分享权限。 ",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/ELNCOUR_049.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KGYb",
+        "Category": "OneDrive for Business"
+      }
+    },
+    {
+      "@odata.etag": "\"181fdfb6-0e56-4feb-a9da-1e068120561f,1\"",
+      "id": "18",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('18')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"181fdfb6-0e56-4feb-a9da-1e068120561f,1\"",
+        "id": "18",
+        "Title": "简单实用的Excel智能推荐图表",
+        "Modified": "2020-09-18T09:21:21Z",
+        "Details": "俗话说“一图胜千文”，我们通常使用Excel图表进行数据展示。Excel为我们提供了丰富的数据图表展示方案，但是如何寻找到一个适合的数据图表呢？现在，我们就一起了解下，Excel中的智能图表推荐是怎样帮助我们应对这一需求的。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_050.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KzcZ",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"50246b0f-ec19-46da-aa44-b55735867275,1\"",
+      "id": "19",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('19')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"50246b0f-ec19-46da-aa44-b55735867275,1\"",
+        "id": "19",
+        "Title": "让您的文档会说话",
+        "Modified": "2020-09-18T09:21:22Z",
+        "Details": "现在很多人正在越来越多地将微信用于学习，例如阅读新闻和文章等。有没有可能在微信里制作生动有趣的有声读物呢？现在，我们将为您介绍借助微软听听文档，将枯燥的课件打造成生动活泼的“语音讲堂”。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_051.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KGYc",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"4e085c0c-0eed-42cc-9d1a-d86ef83e7d7b,1\"",
+      "id": "20",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('20')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"4e085c0c-0eed-42cc-9d1a-d86ef83e7d7b,1\"",
+        "id": "20",
+        "Title": "轻松掌控Word文档的编辑权限",
+        "Modified": "2020-09-18T09:21:24Z",
+        "Details": "在日常工作中，我们常常会对公司的机密文件进行加密处理，有时我们也需要把一些资料传递给他人，但不希望别人随意修改文档中的重要内容。现在，我们将为您介绍在Word中对文档设置密码保护，以及限制文档编辑的权限。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_052.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KMdv",
+        "Category": "Word"
+      }
+    },
+    {
+      "@odata.etag": "\"14f49447-f29b-48f7-818a-813c65469046,1\"",
+      "id": "21",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('21')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"14f49447-f29b-48f7-818a-813c65469046,1\"",
+        "id": "21",
+        "Title": "快速对比Word文档的内容差异",
+        "Modified": "2020-09-18T09:21:25Z",
+        "Details": "我们在工作中经常会遇到这样的问题，编辑的文档有多个版本，特别是我们现在的云存储，在家里也可以编辑，这样就造成了版本的不一致。现在，我们将为您介绍借助Word中的文档比较功能，快速找出二者之间的不同之处。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_053.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KMdx",
+        "Category": "Word"
+      }
+    },
+    {
+      "@odata.etag": "\"e0154ed8-0b3b-441f-851f-93f6d34f8078,1\"",
+      "id": "22",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('22')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"e0154ed8-0b3b-441f-851f-93f6d34f8078,1\"",
+        "id": "22",
+        "Title": "多人共同协作记录笔记信息",
+        "Modified": "2020-09-18T09:21:26Z",
+        "Details": "OneNote能够将您生活中需要记录和管理的一切事项搜罗其中。在OneNote中，笔记易于组织、打印和共享，还可以在任何移动设备上轻松访问。 现在，我们将为您介绍使用OneNote邀请他人在共享的笔记本中共同协作。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_054.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KEon",
+        "Category": "OneNote"
+      }
+    },
+    {
+      "@odata.etag": "\"fa11dd30-ecdf-4883-8f2e-c850eeb383f1,1\"",
+      "id": "23",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('23')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"fa11dd30-ecdf-4883-8f2e-c850eeb383f1,1\"",
+        "id": "23",
+        "Title": "Outlook中的活动提醒小助手",
+        "Modified": "2020-09-18T09:21:28Z",
+        "Details": "目前的职场环境中，Outlook已经是人们经常使用的一种工作信息交流方式。诸如工作汇报、往来商函等通常都是通过电子邮件进行传递和对其进行沟通的。 现在，我们将为您介绍借助Outlook中的日历提醒功能管理个人的工作日程。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_055.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KEoo",
+        "Category": "Outlook"
+      }
+    },
+    {
+      "@odata.etag": "\"646a67bd-9b8c-4e94-8820-b0f446ef6f67,1\"",
+      "id": "24",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('24')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"646a67bd-9b8c-4e94-8820-b0f446ef6f67,1\"",
+        "id": "24",
+        "Title": "Word与Excel之间的数据同步",
+        "Modified": "2020-09-18T09:21:28Z",
+        "Details": "在做项目或工作考核报告时，我们经常将Excel中处理的数据结果直接复制到Word中。现在，我们将为您介绍在Word和Excel之间建立数据链接，Excel中数据更改后，已被复制到Word中的数据就会自动更新，实时体现最新的更改结果。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_056.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2KMdy",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"07cc1ba1-e1f1-4548-ab5d-5381277d0066,1\"",
+      "id": "25",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('25')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"07cc1ba1-e1f1-4548-ab5d-5381277d0066,1\"",
+        "id": "25",
+        "Title": "控制视频在PPT中的播放方式",
+        "Modified": "2020-09-18T09:21:29Z",
+        "Details": "在PowerPoint中，只是简单地插入原始视频略显草率，编辑视频又是太复杂的工作。我们怎样才能更精细地控制与优化幻灯片中的视频呢？现在，我们将为您介绍如何利用 PowerPoint 内置的视频处理工具来控制、优化PowerPoint中的视频文件。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_061.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2IG7J",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"8fc7cd5d-15d4-49bc-a7bb-d4a7f836d8f6,1\"",
+      "id": "26",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('26')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8fc7cd5d-15d4-49bc-a7bb-d4a7f836d8f6,1\"",
+        "id": "26",
+        "Title": "大附件，也可以安全发送出去",
+        "Modified": "2020-09-18T09:21:30Z",
+        "Details": "如果您在使用 Office 365，可能会了解 Outlook 的邮件附件大小默认不可以超过 35M，如果超出这个限制，邮件附件就会因为过大而无法添加到邮件中。现在，我们将为您介绍如何在 Outlook 中突破邮件附件大小限制，将大附件直接发给收件人。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_062.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2IDz1",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"6b6e7334-ab43-492a-a7e9-237aabd0ccf6,1\"",
+      "id": "27",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('27')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"6b6e7334-ab43-492a-a7e9-237aabd0ccf6,1\"",
+        "id": "27",
+        "Title": "Outlook 会议安排三步曲",
+        "Modified": "2020-09-18T09:21:31Z",
+        "Details": "Outlook 为我们每一个商务人士提供了个人信息的管理工具，但是，在日常工作中，组织和安排一个会议并非易事。现在，我们将为您介绍如何在Outlook中，仅需3步，就可以将安排会议需要考虑的时间、会议室、参会方式等因素全部搞定。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_063.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2IDz2",
+        "Category": "Outlook"
+      }
+    },
+    {
+      "@odata.etag": "\"08f763fc-922c-492c-adf3-bf3063c4d92b,1\"",
+      "id": "28",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('28')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"08f763fc-922c-492c-adf3-bf3063c4d92b,1\"",
+        "id": "28",
+        "Title": "立即叫停 OneDrive 中的共享",
+        "Modified": "2020-09-18T09:21:32Z",
+        "Details": "OneDrive for Business为Office 365用户提供了一个超大的网盘空间，他们可以在这个企业级空间中管理个人文档资料，但是，如何看到这些文档的分享状态，并能够及时管理和控制其访问权呢？现在，我们介绍如何随时快捷地停止共享。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_064.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ITeV",
+        "Category": "OneDrive for Business"
+      }
+    },
+    {
+      "@odata.etag": "\"c3bcdbdc-557a-40d3-8173-48db43408852,1\"",
+      "id": "29",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('29')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"c3bcdbdc-557a-40d3-8173-48db43408852,1\"",
+        "id": "29",
+        "Title": "口袋里的扫描仪 Office Lens",
+        "Modified": "2020-09-18T09:21:33Z",
+        "Details": "我们经常在一些活动或展会上收集到一些印刷资料，其中一些文字信息如果比较重要的，您一定希望将这些文字摘抄到相关文档中。现在，我们将为您介绍如何利用 Office Lens 应用来快速将纸质资料上的文字转换为电子化文档，并进行后续的智能化加工、编辑。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_065.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2IVLT",
+        "Category": "Office Lens"
+      }
+    },
+    {
+      "@odata.etag": "\"9921f4b5-cf21-4209-833a-2c87a6b49ee6,1\"",
+      "id": "30",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('30')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9921f4b5-cf21-4209-833a-2c87a6b49ee6,1\"",
+        "id": "30",
+        "Title": "文档内容的再利用",
+        "Modified": "2020-09-18T09:21:34Z",
+        "Details": "我们经常使用 Word 编写方案、汇报等，而文档中的内容往往要被重复使用。如果我要在新文档中使用之前设计的表格，就需要找到之前的文档，再将该表格复制到新文档中。现在，我们将为您介绍如何利用 Word 中的构建基块管理器来建立您自己的文档部件库。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_066.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2MCak ",
+        "Category": "Word"
+      }
+    },
+    {
+      "@odata.etag": "\"01f7cd96-9c05-4087-b954-288ff2643489,1\"",
+      "id": "31",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('31')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"01f7cd96-9c05-4087-b954-288ff2643489,1\"",
+        "id": "31",
+        "Title": "批量发送电子邀请函",
+        "Modified": "2020-09-18T09:21:36Z",
+        "Details": "日常工作中，您一定遇到过这样的场景，您需要将邀请函发送给目标客户群体，面对数十人甚至上百人的客户列表，您需要为每位客户都制作一份邀请函并逐一发送。现在，我们将为您介绍如何利用 Word 中的邮件合并功能来批量制作每位客户的专属邀请函。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_067.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2NaTX ",
+        "Category": "Word"
+      }
+    },
+    {
+      "@odata.etag": "\"e0c03a6a-17c7-47c2-8469-58ee89a04978,1\"",
+      "id": "32",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('32')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"e0c03a6a-17c7-47c2-8469-58ee89a04978,1\"",
+        "id": "32",
+        "Title": "及时了解同事的日程安排",
+        "Modified": "2020-09-18T09:21:37Z",
+        "Details": "Outlook 可以帮助我们管理个人日程，但在团队协作的过程中，我也希望我的同事们能够获悉我的日程安排情况，从而避免浪费时间去口头传达或传达有误。现在，我们将为您介绍如何在 Outlook 中将日程安排共享给同事，并为不同人员分配不同的日程访问权限。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_068.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2NaTY ",
+        "Category": "Outlook"
+      }
+    },
+    {
+      "@odata.etag": "\"462484e9-8701-4144-b2d6-09fbf8bcaddb,1\"",
+      "id": "33",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('33')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"462484e9-8701-4144-b2d6-09fbf8bcaddb,1\"",
+        "id": "33",
+        "Title": "协作过程中的文档版本管理",
+        "Modified": "2020-09-18T09:21:38Z",
+        "Details": "在 Office 365 中，我们可以实现文档的协同编辑。但是，如果我发现自己之前编辑过的一部分内容被其他同事删除了，我如何能够找到我之前编辑过的文档版本呢？现在，我们将为您介绍如何在 Office 365 文档协作过程中对文档历史版本进行管理。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_069.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2Ndl3 ",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"b3993161-cae6-40f8-80cb-600af0f9dc01,1\"",
+      "id": "34",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('34')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b3993161-cae6-40f8-80cb-600af0f9dc01,1\"",
+        "id": "34",
+        "Title": "在 Forms 中轻松创建技能评测",
+        "Modified": "2020-09-18T09:21:40Z",
+        "Details": "很多从事培训工作的朋友都会有这样的经历，为了考核培训的成果，我们通常会在培训之后安排一些测验。在过去，这种测验可能需要纸质试卷来完成。现在，我们将为您介绍如何利用 Forms 来快速地创建技能评测试卷，并实时查看测试成绩。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_070.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2MCal ",
+        "Category": "Forms"
+      }
+    },
+    {
+      "@odata.etag": "\"702008c8-236a-464a-a080-a9d76da990bf,3\"",
+      "id": "35",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('35')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"702008c8-236a-464a-a080-a9d76da990bf,3\"",
+        "id": "35",
+        "Title": "离线访问 OneDrive 中的网盘文件",
+        "Modified": "2020-09-18T09:50:24Z",
+        "Details": "OneDrive for Business 为我们每个人提供了超大的个人网盘空间，以供我们管理工作资料。但在日常工作中，在网络状况不是很好的情况下，如何访问我保存在网盘中的资料呢？现在，我们将为您介绍如何利用 OneDrive for Business 来离线访问您网盘中的资料。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_071.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2MPf8 ",
+        "Category": "OneDrive for Business"
+      }
+    },
+    {
+      "@odata.etag": "\"0b94fbe2-0a2b-46ea-8aa0-b37670e4252a,2\"",
+      "id": "36",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('36')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"0b94fbe2-0a2b-46ea-8aa0-b37670e4252a,2\"",
+        "id": "36",
+        "Title": "利用 Teams 快速发起文档协作",
+        "Modified": "2021-02-07T08:51:33Z",
+        "Details": "在日常工作中，文档的协作大多更趋于线性的模式，需要一个同事完成编辑之后再交付给另一个同事才能继续编辑。这让我们为团队协作付出了更高的沟通成本，也浪费了更多的时间。现在，我们将为您介绍如何利用 Teams 在团队内部快速发起文档协作。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_072.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2MK4T ",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"eaf4ab28-596b-4c59-8169-1d369d6bd6f9,1\"",
+      "id": "37",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('37')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"eaf4ab28-596b-4c59-8169-1d369d6bd6f9,1\"",
+        "id": "37",
+        "Title": "更富创意的数据分析方式",
+        "Modified": "2020-09-18T09:21:43Z",
+        "Details": "在使用 Excel 进行数据分析时，面对大量的数据，我们往往不知应该从哪些维度进行分析，或者应该选择什么样的图表来展示数据。其实，Excel 就可以帮您智能地进行数据分析。现在，我们将为您介绍如何利用 Excel 创意来帮助您更富创意地完成数据分析工作。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_073.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2MEKc ",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"b0490e06-fc56-4cf9-bf0e-e920cf5d922c,1\"",
+      "id": "38",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('38')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b0490e06-fc56-4cf9-bf0e-e920cf5d922c,1\"",
+        "id": "38",
+        "Title": "给你的图片一个创意形状",
+        "Modified": "2020-09-18T09:21:45Z",
+        "Details": "PowerPoint 为我们内置了专业的图片处理工具，您可以根据您的需要对图片进行剪裁。但在制作演示文稿的过程中，一些内置的图形不能满足我们对图片的外形轮廓要求。现在，我们将为您介绍如何利用 PowerPoint 中的合并形状功能让您的图片形状更富创意。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_074.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2MEKd ",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"406f5561-58e9-4d7a-8566-8f9e743c303f,1\"",
+      "id": "39",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('39')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"406f5561-58e9-4d7a-8566-8f9e743c303f,1\"",
+        "id": "39",
+        "Title": "如何控制 OneDrive 文件对外分享",
+        "Modified": "2020-09-18T09:21:45Z",
+        "Details": "在日常的工作中，您可能经常要把一些资料分享到公司外部，在对外分享时我们更会关注分享之后的权限控制，分享之后对方是否可以编辑，或者对方能否下载到本地。现在，我们就来一起了解一下，在Office 365 中借助OneDrive 网盘如何控制文件的对外分享。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（48）如何控制 OneDrive 文件对外分享（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWr1Vj",
+        "Category": "OneDrive for Business"
+      }
+    },
+    {
+      "@odata.etag": "\"71ebd147-aa0e-44d2-87cf-93b55761a794,1\"",
+      "id": "40",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('40')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"71ebd147-aa0e-44d2-87cf-93b55761a794,1\"",
+        "id": "40",
+        "Title": "将网页内容快速收藏到 OneNote 中",
+        "Modified": "2020-09-18T09:21:47Z",
+        "Details": "OneNote 作为万用的电子笔记本，是个人知识管理的一把利器。同时，网页浏览也是我们知识获取的重要来源，那么如何才能快速地将网页浏览的信息收藏到OneNote 笔记本中呢？现在，我们就来了解一下，OneNote 电子笔记本在网页浏览时发挥的重要作用。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（49）将网页内容快速收藏到 OneNote 中（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWqJFe",
+        "Category": "OneNote"
+      }
+    },
+    {
+      "@odata.etag": "\"93309fed-fd95-43be-a40f-810e744c3c5e,1\"",
+      "id": "41",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('41')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"93309fed-fd95-43be-a40f-810e744c3c5e,1\"",
+        "id": "41",
+        "Title": "利用颜色进行时间管理",
+        "Modified": "2020-09-18T09:21:47Z",
+        "Details": "我们每一天都要对大量的工作任务，为了更为高效地工作，我们根据不同的维度对这些工作任务进行分类。既要保证一些任务能够即时处理，又要保证有足够的时间进行专注工作。现在，我们就来了解一下，借助Outlook 日程表更加高效地对您的时间进行管理。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（54）利用颜色进行时间管理（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWqWG0",
+        "Category": "Outlook"
+      }
+    },
+    {
+      "@odata.etag": "\"dc488139-245b-45d7-919f-75fe73136c09,4\"",
+      "id": "42",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('42')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"dc488139-245b-45d7-919f-75fe73136c09,4\"",
+        "id": "42",
+        "Title": "在 Excel 中添加时间到期提醒",
+        "Modified": "2021-02-08T01:11:37Z",
+        "Details": "在我们使用Excel 进行数据管理时，经常会接触到一类特殊的数据，日期数据，对于日期数据除了将它们保存到Excel 外，我们还希望能够借助Excel 对设置时间进行到期提醒。其实，要在Excel 中添加到期时间提醒非常简单，现在，我们就来一起了解一下。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（52）在 Excel 中添加时间到期提醒（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWqRy9",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"05bd0e7b-68e4-4bd0-a860-2e02caf00b6b,11\"",
+      "id": "43",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('43')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"05bd0e7b-68e4-4bd0-a860-2e02caf00b6b,11\"",
+        "id": "43",
+        "Title": "在 Word 中自动调整表格宽度",
+        "Modified": "2020-09-29T09:07:38Z",
+        "Details": "使用Word 进行文档编辑时，往往需要插入一些表格信息，可是从Excel 中将表格复制到Word 之后，格式往往会发生改变，一些内容可能会出现在页面之外。其实，Word 中的表格自动调整功能，能够快速地帮我们完成表格格式的调整来适应Word 中的页面显示。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（53）在 Word 中自动调整表格宽度（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWqJFk",
+        "Category": "Word"
+      }
+    },
+    {
+      "@odata.etag": "\"b717e6d7-2afb-41bb-9af6-f4a373110a76,1\"",
+      "id": "44",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('44')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b717e6d7-2afb-41bb-9af6-f4a373110a76,1\"",
+        "id": "44",
+        "Title": "合理分配 OneDrive 网盘与本地空间",
+        "Modified": "2020-09-18T09:21:51Z",
+        "Details": "OneDrive for Business 为您提供了超大的网盘空间，供您保存与管理工作文件。利用同步功能，即使在离线状态下也能随时访问您的网盘文件。现在，我们就来了解一下，如何合理地管理和分配您的网盘空间和本地空间。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（46）合理分配 OneDrive 网盘与本地空间（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtNlL",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"3b5ed8ba-6251-45a4-9fff-6f681caeb9b0,1\"",
+      "id": "45",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('45')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"3b5ed8ba-6251-45a4-9fff-6f681caeb9b0,1\"",
+        "id": "45",
+        "Title": "找回 OneDrive 网盘中的误删文件",
+        "Modified": "2020-09-18T09:21:52Z",
+        "Details": "OneDrive for Business 是Office 365 为我们提供的超大网盘空间，在使用网盘的过程中难以避免的一个动作就是删除，但执行删除动作之前我们往往都会进行谨慎的思考，尤其是对网盘的内容执行删除。现在，我们就来一起了解一下OneDrive 中的删除动作。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（47）找回 OneDrive 网盘中的误删文件（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtV8p",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"9dd3e0c8-e735-41d5-a776-a836f435cde9,3\"",
+      "id": "46",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('46')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9dd3e0c8-e735-41d5-a776-a836f435cde9,3\"",
+        "id": "46",
+        "Title": "团队文档修订的新技法",
+        "Modified": "2020-09-29T07:48:43Z",
+        "Details": "日常工作中，我们经常需要多人共同完成文档的编写与修订，而在编写与修订的过程中，如何才能查看每个人的修改结果呢？现在，我们一起了解一下，Word 中的修订功能，让您轻松管理多人协作的文档内容。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（50）团队文档修订的新技法（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtV8r",
+        "Category": "Word"
+      }
+    },
+    {
+      "@odata.etag": "\"e762ec88-a467-41b4-8792-8b2c6431f5bc,1\"",
+      "id": "47",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('47')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"e762ec88-a467-41b4-8792-8b2c6431f5bc,1\"",
+        "id": "47",
+        "Title": "如何将硬盘资料同步到团队空间",
+        "Modified": "2020-09-18T09:21:55Z",
+        "Details": "对于每一个团队而言，为了保障协作的有效进行，都需要一些存储空间用来保存资料。Office 365 为我们每一个团队都提供了超大的团队协作空间，您可以通过多种方式将文件交付到团队。现在，我们就来了解一下，如何快速地将您的资料同步到团队空间。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（51）如何将硬盘资料同步到团队空间（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtSzh",
+        "Category": "SharePoint Online"
+      }
+    },
+    {
+      "@odata.etag": "\"5ddf2471-8efa-4723-a1cf-e67aee40fafe,1\"",
+      "id": "48",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('48')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"5ddf2471-8efa-4723-a1cf-e67aee40fafe,1\"",
+        "id": "48",
+        "Title": "利用 OneDrive 备份重要文件夹",
+        "Modified": "2020-09-18T09:21:56Z",
+        "Details": "日常工作中您可能遇到这样的困扰：文档写了一半因为计算机意外关闭而没能及时保存；计算机遇到非法攻击，造成文件的大量删除。如何才能快速恢复这些文件呢？现在，我们就来了解一下，借助OneDrive for Business，让您轻松完成重要文件和文件夹的备份。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（55）利用 OneDrive 备份重要文件夹（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtXKg",
+        "Category": "OneDrive for Business"
+      }
+    },
+    {
+      "@odata.etag": "\"edb037ea-886b-46dc-81af-6342b9e9c82e,1\"",
+      "id": "49",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('49')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"edb037ea-886b-46dc-81af-6342b9e9c82e,1\"",
+        "id": "49",
+        "Title": "如何把幻灯片导出为图片",
+        "Modified": "2020-09-18T09:21:57Z",
+        "Details": "在日常的工作中，您可能借助PowerPoint 灵活的页面布局设置制作一些页面较为复杂的文档，而在进行演示文稿分享的时候，我们不希望将页面中复杂的设计一同分享给他人。现在。我们就来一起了解一下，对于演示文稿，如何快速地导出为图片。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（56）如何把幻灯片导出为图片（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtKOA",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"6c8afdce-3263-4a6c-88d0-2ea803898b02,1\"",
+      "id": "50",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('50')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"6c8afdce-3263-4a6c-88d0-2ea803898b02,1\"",
+        "id": "50",
+        "Title": "如何排除 Excel 隐藏的单元格",
+        "Modified": "2020-09-18T09:21:58Z",
+        "Details": "我们经常使用Excel 对数据进行处理、计算及分析。而在这一过程中，一些隐藏的单元格可能会对您的计算处理造成过一些困扰。例如我们复制粘贴后，却发现那些隐藏的行也被复制了。现在，我们就来了解一下，当遇到这些隐藏单元格时，如何快速地排除它们。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（57）如何排除 Excel 隐藏的单元格（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtXKs",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"78bcea17-9799-45f4-b31a-9c8e3a1f3197,1\"",
+      "id": "51",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('51')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"78bcea17-9799-45f4-b31a-9c8e3a1f3197,1\"",
+        "id": "51",
+        "Title": "让表格每一页都打印标题行",
+        "Modified": "2020-09-18T09:21:58Z",
+        "Details": "日常工作中，当您需要打印一份Excel 工作表时，精心制作的表格，结果打印出来最后一列单独出现在一页，或者由于一些辅助数据，打印出来有很多的空白页。现在，我们就来了解一下，Excel 中打印工作表时的一些小技巧。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（58）让表格每一页都打印标题行（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtKPd",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"5550298d-fd08-4efa-b9ae-f3a335a5d30d,1\"",
+      "id": "52",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('52')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"5550298d-fd08-4efa-b9ae-f3a335a5d30d,1\"",
+        "id": "52",
+        "Title": "为 Word 文档设置不同的页码格式",
+        "Modified": "2020-09-18T09:21:59Z",
+        "Details": "页码是商务文档必不可少的元素之一，而在同一篇文档中，往往不只需要一种页码的排序和显示方式。比如一篇文档中，目录和正文都需要添加页码，但是它们需要分别计数并且以不同的样式显示，这时，我们应该如何进行操作呢？现在，我们就来一起了解一下。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（59）为 Word 文档设置不同的页码格式（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtXKT",
+        "Category": "Word"
+      }
+    },
+    {
+      "@odata.etag": "\"4b0e36b7-856f-4ba6-b1fe-1ed4b7ee1888,1\"",
+      "id": "53",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('53')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"4b0e36b7-856f-4ba6-b1fe-1ed4b7ee1888,1\"",
+        "id": "53",
+        "Title": "合理设置 Outlook 中的外出助手",
+        "Modified": "2020-09-18T09:22:00Z",
+        "Details": "Outlook 是我们在日常工作中处理邮件的高效办公工具，其中还内置了外出助手，及时通知其他人您无法立即响应电子邮件。那么在设置外出助手时需要注意哪些事项呢？现在，我们就来一起了解一下。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（60）合理设置 Outlook 中的外出助手（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtFDC",
+        "Category": "Outlook"
+      }
+    },
+    {
+      "@odata.etag": "\"2a42099b-7be8-494f-9ad8-d0f144a18931,1\"",
+      "id": "54",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('54')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"2a42099b-7be8-494f-9ad8-d0f144a18931,1\"",
+        "id": "54",
+        "Title": "及时了解团队文档库中的最新变化",
+        "Modified": "2020-09-18T09:22:01Z",
+        "Details": "Office 365 通过SharePoint 为企业中每个团队提供了协作的空间，日常的工作中您所参与的团队可能不只一个，如何才能快速了解到所参与的每一个团队的最新信息呢？现在，我们就来一起了解一下SharePoint 中的信息通知功能。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（62）及时了解团队文档库中的最新变化（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtXL3",
+        "Category": "SharePoint Online"
+      }
+    },
+    {
+      "@odata.etag": "\"0b82ea64-43b8-464e-9e18-7c8f45147207,1\"",
+      "id": "55",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('55')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"0b82ea64-43b8-464e-9e18-7c8f45147207,1\"",
+        "id": "55",
+        "Title": "快速删除幻灯片中的图片背景",
+        "Modified": "2020-09-18T09:22:02Z",
+        "Details": "在使用PowerPoint 制作演示文稿时，经常会使用到大量的图片元素。为了让图片元素与演示文稿的背景颜色更好地结合，有时您需要一些无背景的图片。其实在PowerPoint 中可以通过几步简单的操作就可以快速删除图片背景，现在，我们就来一起了解一下。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（63）快速删除幻灯片中的图片背景（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtXL7",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"0077589f-a99f-4832-b871-071fc02053f3,1\"",
+      "id": "56",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('56')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"0077589f-a99f-4832-b871-071fc02053f3,1\"",
+        "id": "56",
+        "Title": "预防企业敏感信息外泄",
+        "Modified": "2020-09-18T09:22:04Z",
+        "Details": "为符合企业标准和行业规范，企业需要保护敏感信息并避免因疏忽导致的泄露。通过安全与合规中心中的数据丢失防护 (DLP) 策略，可在企业内识别、监视和自动保护敏感数据。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/64_预防企业敏感信息外泄.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZpSw",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"5ef97796-4644-4364-ad87-f77ff1f1ed1d,1\"",
+      "id": "57",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('57')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"5ef97796-4644-4364-ad87-f77ff1f1ed1d,1\"",
+        "id": "57",
+        "Title": "保护与跟踪企业机密文档",
+        "Modified": "2020-09-18T09:22:05Z",
+        "Details": "控制并帮助保护企业中的电子邮件、文档和敏感数据。从简单的分类到嵌入标签和权限，无论数据存储在何位置以及与谁共享，始终使用严格的信息保护策略增强对数据的保护。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/65_保护与跟踪企业机密文档.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZpSr",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"8400bca3-2f5d-4115-b177-2b7128b4fa52,1\"",
+      "id": "58",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('58')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8400bca3-2f5d-4115-b177-2b7128b4fa52,1\"",
+        "id": "58",
+        "Title": "自动保留企业重要信息",
+        "Modified": "2020-09-18T09:22:06Z",
+        "Details": "在企业信息管理中可能具有不同类型的内容，因此需要采取不同的归档和保留操作，以符合行业法规和企业内部策略。标签可以帮助企业对业务数据和文档进行分类管理，并根据该分类执行保留规则。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/66_自动保留企业重要信息.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZpSk",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"b999d572-2569-4601-95ae-9dc98017d466,1\"",
+      "id": "59",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('59')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b999d572-2569-4601-95ae-9dc98017d466,1\"",
+        "id": "59",
+        "Title": "企业信息的合规性检查",
+        "Modified": "2020-09-18T09:22:07Z",
+        "Details": "电子数据展示为企业数据合规使用和合规访问提供了有效的检测和发现机制，通过电子数据展示规则，可查询和分析针对人员、信息和数据的使用情况，即使是在非结构化数据中也可查找。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/67_企业信息的合规性检查.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZpS9",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"41bf2f8f-cbf7-48f9-8d37-81d4a7765582,1\"",
+      "id": "60",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('60')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"41bf2f8f-cbf7-48f9-8d37-81d4a7765582,1\"",
+        "id": "60",
+        "Title": "Office 365 中的GDPR法规遵从",
+        "Modified": "2020-09-18T09:22:08Z",
+        "Details": "GDPR 对企业中的个人数据收集、存储、处理和共享进行了规范化要求。Microsoft为存储在 Office 365 服务中的敏感数据进行了全面保护，包括发现、分类、保护和监视个人数据的指导性建议，以满足GDPR法规遵从要求。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/68_Office 365 中的 GDPR 法规遵从.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2Zv3B",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"ffb61a68-4fc3-4d10-b548-7c1fe58ac287,1\"",
+      "id": "61",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('61')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"ffb61a68-4fc3-4d10-b548-7c1fe58ac287,1\"",
+        "id": "61",
+        "Title": "智能防御威胁与攻击",
+        "Modified": "2020-09-18T09:22:09Z",
+        "Details": "Microsoft可以帮助您保护企业面临的各种威胁或攻击，包括欺骗、 恶意软件、 垃圾邮件、 网络钓鱼尝试和未经授权的访问数据等。这些防御策略和服务可以增强企业信息安全的抵御能力。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/69_智能防御威胁与攻击.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZpS8",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"f9234002-3dc5-4733-a43d-20c765813d66,1\"",
+      "id": "62",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('62')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"f9234002-3dc5-4733-a43d-20c765813d66,1\"",
+        "id": "62",
+        "Title": "Office 365的智能安全评估",
+        "Modified": "2020-09-18T09:22:10Z",
+        "Details": "Microsoft Office 365安全分数中心可以为企业提供Office 365 服务中的安全设置评估和最佳实践建议，帮助企业构建稳固的应用和数据安全边界，并依据安全基线提供策略配置的路线图，为管理员提供全局管理指导。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/70_Office 365 的智能安全评估.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZpS6",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"8983d78a-2170-42d8-8022-94f1c3f58ed4,1\"",
+      "id": "63",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('63')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8983d78a-2170-42d8-8022-94f1c3f58ed4,1\"",
+        "id": "63",
+        "Title": "移动设备访问与应用安全管理",
+        "Modified": "2020-09-18T09:22:12Z",
+        "Details": "Microsoft为企业移动设备管理和移动设备应用、数据提供了全面保护：管理员工用于访问企业数据的移动设备，管理移动设备中的应用并保护其中的数据和信息，确保设备和应用符合公司安全要求。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/71_移动设备访问与应用安全管理.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZFsS",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"2f2874ae-ed32-47e6-b801-4005af0675c4,1\"",
+      "id": "64",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('64')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"2f2874ae-ed32-47e6-b801-4005af0675c4,1\"",
+        "id": "64",
+        "Title": "云应用安全的统一监控仪表板",
+        "Modified": "2020-09-18T09:22:13Z",
+        "Details": "企业的安全边界正在随着云服务的增加而扩展，Microsoft为管理员提供了统一的云应用访问的安全管理入口，不仅可以管理Microsoft提供的服务，还可以检测企业在第三方云应用中的使用行为。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/72_云应用安全的统一监控仪表板.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZAfV",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"f54c8a15-ac8e-4e95-8dc2-cb090cd12ec3,1\"",
+      "id": "65",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('65')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"f54c8a15-ac8e-4e95-8dc2-cb090cd12ec3,1\"",
+        "id": "65",
+        "Title": "智能发现入侵检测与威胁预防",
+        "Modified": "2020-09-18T09:22:14Z",
+        "Details": "Microsoft 高级威胁分析可帮助企业免遭多种类型的高级目标网络攻击和内部威胁，可检测多类可疑活动和行为，专注于网络攻击杀伤链的多个阶段，并对这些异常的行为进行智能检测、预警和安全评估建议。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/73_智能发现入侵检测与潜在威胁.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ZAfP",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"8c84caed-5101-48f6-96dc-d928bc88eb70,1\"",
+      "id": "66",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('66')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8c84caed-5101-48f6-96dc-d928bc88eb70,1\"",
+        "id": "66",
+        "Title": "轻松创建和加入企业级团队",
+        "Modified": "2020-09-18T09:22:15Z",
+        "Details": "现在，非常多的工作往往需要团队成员之间的通力配合。多元化的团队更需要一个统一的工作入口 ，实现团队资源管理、内容协作、沟通交流。对于Office 365 用户而言，我们可以借助Microsoft Teams 轻松创建并加入企业级团队。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（74）轻松创建和加入企业级团队（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wyZZ",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"1b60187e-1ee2-435c-82f6-e2a62fb9b9d7,1\"",
+      "id": "67",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('67')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"1b60187e-1ee2-435c-82f6-e2a62fb9b9d7,1\"",
+        "id": "67",
+        "Title": "善用频道管理团队工作资源",
+        "Modified": "2020-09-18T09:22:16Z",
+        "Details": "不论您的团队是永久性团队，还是临时性团队，团队管理都必须井然有序。例如在资源公示团队中的知识分类等等。在Microsoft Teams 中，您可以借助“频道”功能有效、清晰、条理化管理工作资源，对团队工作实现分门别类。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（75）善用频道管理团队工作资源（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wGNX",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"e79d0da9-5af3-4c84-bab8-ce22213df901,1\"",
+      "id": "68",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('68')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"e79d0da9-5af3-4c84-bab8-ce22213df901,1\"",
+        "id": "68",
+        "Title": "了解团队成员的构成与近况",
+        "Modified": "2020-09-18T09:22:18Z",
+        "Details": "作为工作团队中的一员，您需要了解所在团队的人员构成，哪些同事在与您并肩工作，以及团队和同事最新发布的工作动态。而Teams，就为每一位团队成员打造了这样的“同事圈” 。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（76）了解团队成员的构成与近况（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wBBA",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"2302809c-a7d3-4dc9-8668-d1c6a676c62b,1\"",
+      "id": "69",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('69')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"2302809c-a7d3-4dc9-8668-d1c6a676c62b,1\"",
+        "id": "69",
+        "Title": "丰富的团队内部信息沟通",
+        "Modified": "2020-09-18T09:22:18Z",
+        "Details": "保持团队成员之间顺畅的信息沟通是彼此分享创意、提交建议、收集反馈的最佳方式。及时有效的信息沟通，可以充分调动员工工作参与积极性。Microsoft Teams为团队成员提供了丰富的消息沟通功能。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（77）丰富的团队内部信息沟通（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wEd4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"2e8dfe17-b504-43ae-8de5-a2f5b30a84d1,1\"",
+      "id": "70",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('70')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"2e8dfe17-b504-43ae-8de5-a2f5b30a84d1,1\"",
+        "id": "70",
+        "Title": "集中管理与实时协作团队文档",
+        "Modified": "2020-09-18T09:22:19Z",
+        "Details": "任何一个团队，都需要有效的知识管理体系，让知识资产沉淀在企业和团队中。而每个团队成员也应该拥有统一的团队资源访问入口，及时掌握团队中的最新内容。Microsoft Teams 就为团队内容管理提供了您所需要的统一入口。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（78）集中管理与实时协作团队文档（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wwp9",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"c54f01eb-7db0-4b0f-8327-73c25bf55e8b,1\"",
+      "id": "71",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('71')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"c54f01eb-7db0-4b0f-8327-73c25bf55e8b,1\"",
+        "id": "71",
+        "Title": "聚合并管理团队工作必备应用",
+        "Modified": "2020-09-18T09:22:20Z",
+        "Details": "每个团队的工作流程和管理方式各不相同，往往会借助不同的工具管理团队的日常事务，每位团队成员都希望，是否可以借助一个应用就可以最大限度地获得团队工作的所有最新信息呢？Microsoft Teams就为您提供了团队工作管理的统一入口。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（79）聚合并管理团队工作必备应用（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3x6O7",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"f3ba8173-1fdc-402f-b6c1-71793ffac0dd,3\"",
+      "id": "72",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('72')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"f3ba8173-1fdc-402f-b6c1-71793ffac0dd,3\"",
+        "id": "72",
+        "Title": "Teams 在线会议前的必备事项",
+        "Modified": "2021-02-08T03:10:39Z",
+        "Details": "在日常工作中，会议讨论往往是最行之有效的沟通方式之一。Microsoft Teams为团队提供了完整的会议周期管理模式，可以将会前准备、会中讨论，以及会后归档紧密串接在一起，让您的会议沟通更加富有成效。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（80）Teams 在线会议前的必备事项（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3x9pr",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"8a7b702c-5dfe-4ec6-8afe-9c8e4deb9923,1\"",
+      "id": "73",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('73')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8a7b702c-5dfe-4ec6-8afe-9c8e4deb9923,1\"",
+        "id": "73",
+        "Title": "Teams 会议中的交互和管理",
+        "Modified": "2020-09-18T09:22:22Z",
+        "Details": "在线会议为团队沟通提供了最为灵活、高效、经济的解决问题方式，不需要物理空间资源，节省差旅或出行成本。Microsoft Teams为团队提供了完整的会议周期管理模式，尤其在会议中的交互体验更让您的团队沟通卓有成效。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（81）Teams 会议中的交互和管理（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wTNP",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"244cbd96-2ac5-4083-bd8f-730b4ef343ba,1\"",
+      "id": "74",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('74')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"244cbd96-2ac5-4083-bd8f-730b4ef343ba,1\"",
+        "id": "74",
+        "Title": "Teams 会后记录管理与分享",
+        "Modified": "2020-09-18T09:22:23Z",
+        "Details": "做好会议记录，是会议沟通中的一项基本工作技能。它将作为会议后决议和执行的参考依据，会议记录可以分为“略记”和“详记”，这两种方式在Microsoft Teams中都可以得到完美的支持。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（82）Teams 会后记录管理与分享（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wRcn",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"9d987bed-4a3f-40c9-b632-74ac41f6a3fe,1\"",
+      "id": "75",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('75')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9d987bed-4a3f-40c9-b632-74ac41f6a3fe,1\"",
+        "id": "75",
+        "Title": "在手机中访问团队并加入会议",
+        "Modified": "2020-09-18T09:22:24Z",
+        "Details": "随着BYOD 的办公理念被越来越多的企业所接受，借助员工自己的移动设备、随时随地接入并访问办公环境成为不可阻挡的现代化办公趋势。Microsoft Teams为移动设备提供了贴心的应用，让您可以不中断地与团队时刻保持最紧密连接。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（83）在手机中访问团队并加入会议（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3x4d2",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"224a5360-a72f-4606-b878-d82abb04401a,1\"",
+      "id": "76",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('76')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"224a5360-a72f-4606-b878-d82abb04401a,1\"",
+        "id": "76",
+        "Title": "创建万人级别的企业全员大会",
+        "Modified": "2020-09-18T09:22:26Z",
+        "Details": "每年总有那么几次，企业需要召开全员大会，或其他大型会议，当您遍寻为此类会议提供直播平台，实现更多人员在线参与会议盛况时，不要忘记，您所拥有的Microsoft Teams其实就是一个绝佳的工具。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（84）创建万人级别的企业全员大会（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3wWqB",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"9b68b147-2bfc-432d-b608-d3600221178d,1\"",
+      "id": "77",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('77')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9b68b147-2bfc-432d-b608-d3600221178d,1\"",
+        "id": "77",
+        "Title": "Teams 中的智能交互机器人",
+        "Modified": "2020-09-18T09:22:27Z",
+        "Details": "在当今的办公环境中，很多企业都希望能够为同事或客户提供不间断的信息服务，与业务系统相关联的聊天机器人技术也就应运而生。同样的，Microsoft Teams也可以为团队添加智能交互的聊天机器人，帮助团队成员从不同应用中搜索和共享信息。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（85）Teams 中的智能交互机器人（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3x4ga",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"66539250-c091-42fd-9264-e55282c1286f,1\"",
+      "id": "78",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('78')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"66539250-c091-42fd-9264-e55282c1286f,1\"",
+        "id": "78",
+        "Title": "团队管理和会议中的外部人员",
+        "Modified": "2020-09-18T09:22:27Z",
+        "Details": "在我们的工作团队中，难免会存在企业外的人员共同参与资源分享和沟通讨论，这些外部人员在Microsoft Teams中该如何定位？Microsoft Teams作为一款企业级的团队协作与沟通工具，依然为企业团队的外部人员提供了周密的支持。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/（87）团队管理和会议中的外部人员（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3x4gc",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"edf2c1a6-5c55-461e-a971-aa7a0ece4328,1\"",
+      "id": "79",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('79')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"edf2c1a6-5c55-461e-a971-aa7a0ece4328,1\"",
+        "id": "79",
+        "Title": "玩转 PowerPoint 10大职场必备技能",
+        "Modified": "2020-09-18T09:36:19Z",
+        "Details": "本次课程您将了解到 PowerPoint 中那些“逆天”的特性，并通过巧用这些功能，让您笑傲职场、事半功倍，在现代化云办公模式下实现效率的突破和革新。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_027.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2yGJk",
+        "Category": "PowerPoint"
+      }
+    },
+    {
+      "@odata.etag": "\"2f2cfec0-10ed-4d75-b667-f07e41b22962,1\"",
+      "id": "80",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('80')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"2f2cfec0-10ed-4d75-b667-f07e41b22962,1\"",
+        "id": "80",
+        "Title": "巧用 Outlook 打造职场电子邮件礼仪",
+        "Modified": "2020-09-18T09:36:21Z",
+        "Details": "在本次课程中，我们将为您介绍利用 Outlook 如何打造职场沟通的技能和技巧，让电子邮件起到帮助我们解决问题的作用，促进交流和合作，提高工作沟通效率。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_028.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWoIlt ",
+        "Category": "Outlook"
+      }
+    },
+    {
+      "@odata.etag": "\"4e680c87-e311-4b65-973d-aa8bb8c637bb,1\"",
+      "id": "81",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('81')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"4e680c87-e311-4b65-973d-aa8bb8c637bb,1\"",
+        "id": "81",
+        "Title": "Teams 高效团队会议终极指南",
+        "Modified": "2020-09-18T09:36:22Z",
+        "Details": "您将了解到如何利用Teams 以最灵活、高效的方式构建企业级会议平台，并对会议进行分析与管理，深刻体会开展简单、高效的会议给团队带来的好处。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/ELNCOUR_046.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2GuZh",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"3fe4c638-d1b4-466a-ae25-8ca9c98e9bd3,1\"",
+      "id": "82",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('82')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"3fe4c638-d1b4-466a-ae25-8ca9c98e9bd3,1\"",
+        "id": "82",
+        "Title": "Office 365 助您应对职场语言关",
+        "Modified": "2020-09-18T09:36:24Z",
+        "Details": "随着国际化交流越来越多，每一位办公人员势必会面临与海外人员的语言交流。本次课程中，我们将为您介绍在Word、PowerPoint、Outlook、Teams 等您最熟悉的Office 365 客户端组件中的翻译服务，让您轻松面对职场中的语言关。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_047.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2JZFG ",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"c6bd7761-46b2-42ca-8e56-c32689a5889d,1\"",
+      "id": "83",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('83')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"c6bd7761-46b2-42ca-8e56-c32689a5889d,1\"",
+        "id": "83",
+        "Title": "年终报告中数据与地图绝佳展示",
+        "Modified": "2020-09-18T09:36:26Z",
+        "Details": "俗话说“一图胜千文”，为了更好地表达业务分析结果，我们通常会使用图表进行数据的展示。在 Office 365 中包含了大量的数据图表，本次课程中，您将了解到在Excel、PowerPoint、Power BI、Visio 等Office 365 组件中更为丰富的地图展示方案。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_075.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2MGbv",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"097ef2f8-7f8c-49a1-8005-070be3cc5eef,2\"",
+      "id": "84",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('84')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"097ef2f8-7f8c-49a1-8005-070be3cc5eef,2\"",
+        "id": "84",
+        "Title": "最佳团队协作与沟通梦幻战队",
+        "Modified": "2020-09-18T09:50:54Z",
+        "Details": "在现在的工作环境中，每一位同事参与的团队、项目组比之前多很多，团队成员之间开展密切的分享、协作和沟通，成为每个团队工作的战术需求。本课程将为您剖析 Teams 、Whiteboard 智能白板、 Live Events 、Workplace Analytics和 MyAnalytics等工具让团队会议与协作更加智能。 ",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/tech2018-EMM201.png",
+        "VideoUrl": "https://eventhubcnvod-cnea.streaming.media.chinacloudapi.cn/b97acfbb-1de6-4e7a-862e-dbf232b32acb/Techsummit%202018%E8%A7%86%E9%A2%91%2010.25-3-2-EMM2_960x540_1500.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"f2451ae1-9e13-429e-b90c-92cfe7e0a284,3\"",
+      "id": "85",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('85')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"f2451ae1-9e13-429e-b90c-92cfe7e0a284,3\"",
+        "id": "85",
+        "Title": "解锁 OneDrive for Business 10大应用秘籍",
+        "Modified": "2020-09-18T09:51:15Z",
+        "Details": "OneDrive for Business 为您提供了超大容量的企业级个人网盘，提供数据云端存储与分享的能力。本次课程中，我们将为您解锁 OneDrive for Business 应用的超强技能，协助您轻松将个人文档同步至云端，并通过安全可控的方式管理与分享文档内容。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/解锁 OneDrive for Business 10大应用秘籍（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWt7AK ",
+        "Category": "OneDrive for Business"
+      }
+    },
+    {
+      "@odata.etag": "\"24299595-2997-4be5-bd85-10593cac542e,1\"",
+      "id": "86",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('86')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"24299595-2997-4be5-bd85-10593cac542e,1\"",
+        "id": "86",
+        "Title": "玩转 Forms 电子问卷调查与在线评测",
+        "Modified": "2020-09-18T09:36:29Z",
+        "Details": "您还在企业中使用纸质的问卷做调查吗？您还在为调查统计数据的分析发愁吗？来看看Office 365中的 Forms 应用吧！本次课程中，您将了解到如何借助 Forms 应用轻松创建在线调查，您还会了解通过 Forms 快速创建测验来评测知识掌握进度。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/ELNCOUR_玩转 Forms 297 165.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWtV8s",
+        "Category": "Forms"
+      }
+    },
+    {
+      "@odata.etag": "\"4128d6fe-04bc-42e2-b8cb-1f83546af279,1\"",
+      "id": "87",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('87')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"4128d6fe-04bc-42e2-b8cb-1f83546af279,1\"",
+        "id": "87",
+        "Title": "Office 365 纵横职场之行政助理高效办公",
+        "Modified": "2020-09-18T09:36:30Z",
+        "Details": "行政助理的工作看上去非常繁杂，但是借助 Office 365 中的工具和服务，可以将您的工作有序地串接在一起。本次课程中，将针对不同行业的行政助理人员的工作特点和瓶颈量身定制。概述了行政助理的工作职责，逐步介绍应对问题的最佳解决方法。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/ELNCOUR_033.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWvNYP ",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"b542b3fd-0c09-43bc-a2ba-21a786a3a17e,2\"",
+      "id": "88",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('88')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b542b3fd-0c09-43bc-a2ba-21a786a3a17e,2\"",
+        "id": "88",
+        "Title": "高效使用 SharePoint Online 的7个习惯养成",
+        "Modified": "2021-02-08T01:56:59Z",
+        "Details": "SharePoint Online 在 Office 365 中起到了桥梁的作用，本次课程精选出 SharePoint Online 使用技术的7个最重要的场景，希望您可以通过简单的操作即可了解 SharePoint 服务在团队内容管理、协作沟通、信息共享中的突出价值。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/高效使用 SharePoint Online 的7个习惯养成 297 165.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2O3fe",
+        "Category": "SharePoint Online"
+      }
+    },
+    {
+      "@odata.etag": "\"4cb7920a-7bcb-4f88-a505-5c1d62cf8a2b,1\"",
+      "id": "89",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('89')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"4cb7920a-7bcb-4f88-a505-5c1d62cf8a2b,1\"",
+        "id": "89",
+        "Title": "解锁 Microsoft Excel 10大智能数据分析术",
+        "Modified": "2020-09-18T09:36:33Z",
+        "Details": "本次课程中，我们将揭示 Excel 中智能的数据分析与处理技术，不再有繁杂的数据计算，不再有复杂的操作步骤，或许只是单击一下鼠标，您就可以获得不同业务维度的数据展示结果。让我们一起为数据架起快速分析和展现的通道吧。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/解锁 Microsoft Excel 10大智能数据分析术 课程图 297 165.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2Opvw ",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"7f296ad8-92ad-465b-b0ff-78889971ff9a,1\"",
+      "id": "90",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('90')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"7f296ad8-92ad-465b-b0ff-78889971ff9a,1\"",
+        "id": "90",
+        "Title": "打通企业数字化转型最后一公里",
+        "Modified": "2020-09-18T09:36:35Z",
+        "Details": "在Microsoft 365中，为企业业务应用的构建提供了开放式接口，更提供了Power Platform，构建办公平台与核心业务应用连接的通道。在本次课程中，您将了解如何通过Microsoft Flow实现自动化可视流程，快速构建智能的Power Apps应用。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/打通企业数字化转型最后一公里297.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE370Iv",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"14a47a08-5799-4fee-99b4-04efe3a5a8e2,1\"",
+      "id": "91",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('91')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"14a47a08-5799-4fee-99b4-04efe3a5a8e2,1\"",
+        "id": "91",
+        "Title": "构建无代码 SharePoint 现代化站点新技法",
+        "Modified": "2020-09-18T09:36:36Z",
+        "Details": "您将了解 SharePoint 团队站点与沟通站点的创建模式和站点结构，以及在现代化站点中如何合理地运用新型文档库、列表和应用丰富团队空间内容；同时，您也将了解到常用文档库和列表的自定义方法，并向您介绍 SharePoint Hub Site的定制和使用方案。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/构建无代码 SharePoint 现代化站点新技法297.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3claz",
+        "Category": "SharePoint Online"
+      }
+    },
+    {
+      "@odata.etag": "\"ad7f538c-8200-4e00-a139-e2764cd73c20,1\"",
+      "id": "92",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('92')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"ad7f538c-8200-4e00-a139-e2764cd73c20,1\"",
+        "id": "92",
+        "Title": "找出消失的时间，改善个人和团队工作效率",
+        "Modified": "2020-09-18T09:36:37Z",
+        "Details": "您将了解用于个人时间分析的 My Analytics 和用于企业团队行为分析的 Workplace Analytics 服务，通过可视化的分析视图和指标，了解在数字化转型进程中成效不彰背后的原因。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/找出消失的时间，改善个人和团队工作效率（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3nI6k",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"7f0ed7e3-2cfe-469b-9034-f42ca85ba800,4\"",
+      "id": "93",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('93')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"7f0ed7e3-2cfe-469b-9034-f42ca85ba800,4\"",
+        "id": "93",
+        "Title": "基于 SharePoint 实现文件发布与审批流程",
+        "Modified": "2021-02-09T01:04:21Z",
+        "Details": "您将了解SharePoint 文档库中内置的工作流引擎，实现文档管理的流程化审核。同时，您还将了解到 SharePoint 文档库与 Microsoft Flow 的整合，通过可视化流程定制，实现文档发布、审批、核准的全过程，确保文档之间的一致性。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/基于 SharePoint 实现文件发布与审批流程（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3nKHa",
+        "Category": "SharePoint Online"
+      }
+    },
+    {
+      "@odata.etag": "\"37bdd9cf-c9ca-4b58-ab63-608db98f50f8,1\"",
+      "id": "94",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('94')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"37bdd9cf-c9ca-4b58-ab63-608db98f50f8,1\"",
+        "id": "94",
+        "Title": "企业会议全周期管理的3个关键步骤",
+        "Modified": "2020-09-18T09:36:39Z",
+        "Details": "在日常工作中，会议讨论往往是最行之有效的沟通方式之一。在本次课程中，您将了解到在Microsoft 365 中为团队提供的完整会议周期管理模式，借助Outlook 与Teams 将会前准备、会中讨论，以及会后归档三个最重要的环节紧密串接在一起。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/企业会议全周期管理的3个关键步骤 （297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3MDma",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"0af04267-e5d3-4d69-bf40-c88544906ee0,1\"",
+      "id": "95",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('95')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"0af04267-e5d3-4d69-bf40-c88544906ee0,1\"",
+        "id": "95",
+        "Title": "OneDrive for Business 5大信息安全法则",
+        "Modified": "2020-09-18T09:36:41Z",
+        "Details": "在云应用的进程中，不断延展的信息范围为企业制定安全战略带来巨大的挑战。在本次课程中，我们将以 OneDrive for Business 企业级个人内容管理空间为切入点，详细介绍如何实现内容版本管理机制、安全分享建议和文件恢复方法。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/OneDrive for Business 5大信息安全法则 （297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE414gv ",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"9ff49f07-d38d-49dd-a18f-7430b074343f,3\"",
+      "id": "96",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('96')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9ff49f07-d38d-49dd-a18f-7430b074343f,3\"",
+        "id": "96",
+        "Title": "Microsoft Teams 构建团队办公空间全技能",
+        "Modified": "2020-09-18T09:51:51Z",
+        "Details": "Microsoft Teams 为现代化工作团队提供了统一的入口，可以灵活快捷地创建企业级团队，聚合团队成员，满足企业多元化的团队工作事务处理需求。在本次课程中，您将了解到使用 Microsoft Teams 构建团队空间的全部技能。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 构建团队办公空间全技能 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/Microsoft%20Teams%20构建团队办公空间全技能.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"16380c5d-1d7d-46ff-b725-cb6189793313,1\"",
+      "id": "97",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('97')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"16380c5d-1d7d-46ff-b725-cb6189793313,1\"",
+        "id": "97",
+        "Title": "Microsoft Teams 跨设备灵活沟通无障碍",
+        "Modified": "2020-09-18T09:36:43Z",
+        "Details": "Microsoft Teams为团队成员提供了丰富的消息沟通功能，您可以通过PC、平板或手机等设备与团队成员保持最紧密的连接，使用文本、富文本、表情符号、表情包、语音、视频等多途径进行高效沟通，实现团队协作中解决问题的最终目标。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 跨设备灵活沟通无障碍 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/Microsoft%20Teams%20跨设备灵活沟通无障碍_Public.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"766fd613-d8e8-41e9-8d7c-bd67a877085d,1\"",
+      "id": "98",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('98')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"766fd613-d8e8-41e9-8d7c-bd67a877085d,1\"",
+        "id": "98",
+        "Title": "Microsoft Teams 实现团队内容交付与协作",
+        "Modified": "2020-09-18T09:36:44Z",
+        "Details": "Microsoft Teams 为团队成员提供了一个统一的资源管理中心和内容访问入口，在此，您可以更加快捷地获取团队知识信息，与团队成员之间进行有效的信息分享和并发实时协作。让团队知识资产有效地沉淀和管理在团队内部。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 实现团队内容交付与协作 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/Microsoft%20Teams实现团队内容交付与协作_Public.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"f356f9d9-bc9a-4b6d-a590-71d0119ebe7c,1\"",
+      "id": "99",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('99')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"f356f9d9-bc9a-4b6d-a590-71d0119ebe7c,1\"",
+        "id": "99",
+        "Title": "Microsoft Teams 保障远程会议卓有成效",
+        "Modified": "2020-09-18T09:36:46Z",
+        "Details": "在线会议是Microsoft Teams 最核心的功能之一，它为团队提供了完整的会议周期管理方案，利用它，可以将会前准备、会中讨论，以及会后归档紧密串接在一起，让您的会议沟通更加富有成效。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 保障远程会议卓有成效 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/Microsoft%20Teams%20保障远程会议卓有成效_Public.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"76134e44-aa21-4d79-9bee-b70777a83a52,2\"",
+      "id": "100",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('100')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"76134e44-aa21-4d79-9bee-b70777a83a52,2\"",
+        "id": "100",
+        "Title": "Microsoft Teams 团队任务分配与业务跟踪",
+        "Modified": "2020-09-18T09:55:40Z",
+        "Details": "Microsoft Teams 可以聚合团队工作必备的应用，让您在Teams中连接和展现所需要的团队信息。您将了解将 Microsoft Planner 聚合在 Teams 中的全过程，依据工作计划制定团队工作日历，及时了解每天的工作进程，并实时对团队工作进行管理和跟踪。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 团队任务分配与业务跟踪 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/20200221_Microsoft%20Teams%20团队任务分配与业务跟踪_Publish.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"b455ea34-9a52-4c21-993e-117524a9c4be,1\"",
+      "id": "101",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('101')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b455ea34-9a52-4c21-993e-117524a9c4be,1\"",
+        "id": "101",
+        "Title": "Microsoft Teams 助力紧密连接一线同事",
+        "Modified": "2020-09-18T09:36:49Z",
+        "Details": "您将了解到如何借助 Microsoft Teams 实现一线员工的排班管理、内容分享和远程沟通，让一线员工借助自己在企业中被管理的设备，随时随地处理业务信息，掌握时间计划，与其他同事共享与讨论业务状况，为一线员工开启智能移动办公的新时代。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 助力紧密连接一线同事（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/20200226_Microsoft%20Teams%20助力紧密连接一线同事_Publish.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"0d034f14-64cc-4cdf-9cb9-1496f39dcec1,1\"",
+      "id": "102",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('102')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"0d034f14-64cc-4cdf-9cb9-1496f39dcec1,1\"",
+        "id": "102",
+        "Title": "远程办公模式之下的信息安全与合规审核",
+        "Modified": "2020-09-18T09:36:50Z",
+        "Details": "我们将介绍 Microsoft 365中的电子数据发现服务，它为企业信息的合规性检查提供了有效的发现机制，企业IT人员可以建立良好的企业数据基础设施安全管理规则，实现电子公示处理、产出和传递的流程，以保证所保存信息的可读性、真实性、完整性和安全性。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/远程办公模式之下的信息安全与合规审核（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/20200228_远程办公模式之下的信息安全与合规审核_1_batch.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"f70359ed-8327-4455-bb1e-003b82d33cd9,1\"",
+      "id": "103",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('103')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"f70359ed-8327-4455-bb1e-003b82d33cd9,1\"",
+        "id": "103",
+        "Title": "Microsoft Teams 与外部人员协作的7个建议",
+        "Modified": "2020-09-18T09:36:52Z",
+        "Details": "我们将为您的团队外部人员管理提出7个建议，您将了解到 Microsoft Teams 作为一款企业级的团队协作与沟通工具，为企业团队的外部人员提供了周密的支持。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 与外部人员协作的7个建议 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/20200305_Microsoft%20Teams%20与外部人员协作的7个建议1_batch.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"97722914-ae6e-481e-bddb-f86cad8bacbb,1\"",
+      "id": "104",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('104')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"97722914-ae6e-481e-bddb-f86cad8bacbb,1\"",
+        "id": "104",
+        "Title": "远程办公模式之下的威胁防护和风险抵御",
+        "Modified": "2020-09-18T09:36:53Z",
+        "Details": "在本次课程中，您将了解 Microsoft 365为企业提供的智能防御能力，无论是恶意软件、垃圾邮件、网络钓鱼还是未经授权的数据访问，都可以主动阻止这些具有风险的攻击与威胁行为，为企业信息和数据安全提供有力保障。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/远程办公模式之下的威胁防护和风险抵御 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/20200310_远程办公模式之下的威胁防护和风险抵御_1_batch.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"8479a640-6229-4f30-9e97-a513da700331,2\"",
+      "id": "105",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('105')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8479a640-6229-4f30-9e97-a513da700331,2\"",
+        "id": "105",
+        "Title": "Microsoft Teams 与 SharePoint Online 的完美整合",
+        "Modified": "2021-02-07T09:22:54Z",
+        "Details": "您将了解到 Microsoft Teams 在内容管理层面与 SharePoint Online 技术的强强联合，集中存储、管理企业团队中的数字化资产，为企业知识管理的构建和推进提供最强大的技术架构支撑。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Teams 与 SharePoint Online 的完美整合（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/20200313-Microsoft%20Teams%20与%20SharePoint%20Online%20的完美整合_batch.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"de196e2e-93c8-4a8c-a4c0-d7d7a5c19ba6,3\"",
+      "id": "106",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('106')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"de196e2e-93c8-4a8c-a4c0-d7d7a5c19ba6,3\"",
+        "id": "106",
+        "Title": "构建现代型 SharePoint 团队站点的 10个关键控件",
+        "Modified": "2020-09-29T09:31:55Z",
+        "Details": "您将了解 SharePoint 团队站点与沟通站点的创建模式和站点结构，以及在现代化站点中如何合理地运用新型控件丰富团队空间内容，包括新闻、列表、链接、文档库等最重要的10个必备控件的使用技巧，让您秒变团队业务网站变装达人。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/构建现代型 SharePoint 团队站点的 10个关键控件（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200423/3.20_构建现代型%20SharePoint%20团队站点的%2010个关键控件_batch.mp4",
+        "Category": "SharePoint Online"
+      }
+    },
+    {
+      "@odata.etag": "\"077e9424-e6f9-477f-b524-8c768e2517c5,1\"",
+      "id": "107",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('107')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"077e9424-e6f9-477f-b524-8c768e2517c5,1\"",
+        "id": "107",
+        "Title": "Microsoft Forms 信息采集与在线考核全解析",
+        "Modified": "2020-09-18T09:36:56Z",
+        "Details": "您将了解到如何借助 Forms 应用轻松创建在线调查，收集客户反馈、衡量员工满意度，并附带主题和问题分支，无需大量操作即可设计出优秀的调查；您还会了解通过 Forms 快速创建测验来评测知识掌握进度。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft Forms 信息采集与在线考核全解析（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200407/20200317_Microsoft%20Forms%20信息采集与在线考核全解析_batch.mp4",
+        "Category": "Forms"
+      }
+    },
+    {
+      "@odata.etag": "\"b73567bc-1edb-42e6-a8d3-c6fa2a001404,1\"",
+      "id": "108",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('108')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b73567bc-1edb-42e6-a8d3-c6fa2a001404,1\"",
+        "id": "108",
+        "Title": "妙用 Stream 管理和分享团队学习视频资源",
+        "Modified": "2020-09-18T09:36:57Z",
+        "Details": "您将了解到 Stream 服务如何为团队视频资源管理提供强大的支持，并通过人工智能的技术实现视频语音、语义识别、人脸识别等实现视频资源的强大分析处理。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/妙用 Stream 管理和分享团队学习视频资源 （297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200423/20200324_妙用%20Stream%20管理和分享团队学习视频资源_batch.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"78da15ec-14da-4143-8318-ab4b7ebfd50a,2\"",
+      "id": "109",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('109')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"78da15ec-14da-4143-8318-ab4b7ebfd50a,2\"",
+        "id": "109",
+        "Title": "基于团队协作的工作流程构建方法初探",
+        "Modified": "2021-02-07T09:01:54Z",
+        "Details": "我们将为您介绍借助Microsoft 365中的 Automate 服务，轻松连接业务数据信息，设定流程规则，实现电子化工作流程的快速设计和部署。同时，我们将精选出10个最常用的工作流程，共同见证 Automate 为团队工作的高效驱动力。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/基于团队协作的工作流程构建方法初探（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200423/20200327_基于团队协作的工作流程构建方法初探_batch.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"328575d7-d0ab-4174-9834-68019d203888,5\"",
+      "id": "110",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('110')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"328575d7-d0ab-4174-9834-68019d203888,5\"",
+        "id": "110",
+        "Title": "Teams 典型应用场景十问实答",
+        "Modified": "2020-09-29T08:01:36Z",
+        "Details": "本课程精选业务团队成员在使用 Teams 时遇到的10个典型应用场景问题进行逐一解答，通过应用演示，为您揭示 Teams 在团队工作中的强大之处，并助力每一个业务团队更加卓越地交付工作。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Teams 典型应用场景十问实答（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200715/20200421_Teams%20典型应用场景十问实答.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"65f9467b-ac1b-4bff-aa08-286672ac123e,2\"",
+      "id": "111",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('111')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"65f9467b-ac1b-4bff-aa08-286672ac123e,2\"",
+        "id": "111",
+        "Title": "详解 OneDrive for Business分享中的安全控制",
+        "Modified": "2020-09-18T09:52:46Z",
+        "Details": "越来越多的业务人员关注网盘空间资料分享的安全性。在本次课程中，我们将详细介绍OneDrive for Business 文件分享的4种方式，并逐一对起分享方法进行信息安全性的探讨，以让每一位业务人员都拥有更加安全的智能办公环境。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/详解 OneDrive for Business分享中的安全控制（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200715/20200428_详解%20OneDrive%20for%20Business分享中的安全控制_batch.mp4",
+        "Category": "安全与运维"
+      }
+    },
+    {
+      "@odata.etag": "\"43656eb6-95f2-4b77-a275-1f631a8d8750,1\"",
+      "id": "112",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('112')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"43656eb6-95f2-4b77-a275-1f631a8d8750,1\"",
+        "id": "112",
+        "Title": "Microsoft 365无密码身份验证策略配置实战",
+        "Modified": "2020-09-18T09:37:02Z",
+        "Details": "Gartner 预测，到 2022 年，60% 的大型全球性企业和 90% 的中型企业将在超过 50% 的应用中实施无密码方法。在本次课程中，我们将实际演练 Microsoft 365 中无密码身份验证的安全策略配置方法，以及规划时需要考虑的事项。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft 365 无密码身份验证策略配置实战（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200715/20200512_Microsoft%20365无密码身份验证策略配置实战_batch.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"d0bf1c0b-19c1-4eeb-bc8d-25165d49a34f,1\"",
+      "id": "113",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('113')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"d0bf1c0b-19c1-4eeb-bc8d-25165d49a34f,1\"",
+        "id": "113",
+        "Title": "Teams 中的信息保护与安全合规策略实战",
+        "Modified": "2020-09-18T09:37:03Z",
+        "Details": "企业信息安全及合规专员越发重视 Teams 应用中的信息保护和安全合规。在本次课程中，我们将通过统一标签策略为基础，归纳 Teams 中信息保护、数据防丢失、团队内容归档及合规的策略实施建议。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Teams 中的信息保护与安全合规策略实战（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200715/20200522_Teams%20中的信息保护与安全合规策略实战_batch.mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"b34b1c53-e492-47cf-a799-76408e93c5ef,1\"",
+      "id": "114",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('114')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b34b1c53-e492-47cf-a799-76408e93c5ef,1\"",
+        "id": "114",
+        "Title": "现代办公模式下的应用及数据安全建议",
+        "Modified": "2020-09-18T09:37:05Z",
+        "Details": "Microsoft 作为全球领先的企业级信息安全服务提供商，为云时代的应用和数据安全提供了全方位的管理和保护。在本次课程中，您将详细了解 Microsoft Cloud App Security 安全服务体系，对潜在的威胁攻击提供防护。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/现代办公模式下的应用及数据安全建议（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200831/20200818_现代办公模式下的应用及数据安全建议%20[最优化的质量和大小].mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"b595ff83-e397-4763-8ee2-f7a1dceda484,1\"",
+      "id": "115",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('115')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b595ff83-e397-4763-8ee2-f7a1dceda484,1\"",
+        "id": "115",
+        "Title": "开启 Microsoft Teams 会议新模式",
+        "Modified": "2020-09-18T09:37:06Z",
+        "Details": "在线会议是 Microsoft Teams 最核心的功能之一。在本次课程中，我们将为您揭示 Teams 常规会议以及Live Event实时事件会议功能的新变化，并借助人工智能驱动的全新会议模式，让企业沟通更加身临其境。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/开启 Microsoft Teams 会议新模式（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/20200831/20200825_开启%20Microsoft%20Teams%20会议新模式%20[最优化的质量和大小].mp4",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"fefd9712-e26a-411b-b902-578d83afb773,5\"",
+      "id": "116",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('116')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"fefd9712-e26a-411b-b902-578d83afb773,5\"",
+        "id": "116",
+        "Title": "借助 Teams 实现高效团队管理的6条建议",
+        "Modified": "2020-09-29T07:52:01Z",
+        "Details": "本次课程将与您分享借助 Microsoft Teams 打造优秀团队文化的6项建议，包括如何在 Teams 团队中做到公开透明、持续沟通、积极反馈等话题。通过这些建议，旨在让您的团队更加出色地使用 Teams 工具，打造积极向上的团队工作氛围。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/借助 Teams 实现高效团队管理的6条建议（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4F9LF",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"aa25abbd-0b12-4eaf-9d4a-f7818842bf6f,1\"",
+      "id": "117",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('117')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"aa25abbd-0b12-4eaf-9d4a-f7818842bf6f,1\"",
+        "id": "117",
+        "Title": "揭示Excel最具价值的5大业务分析模型",
+        "Modified": "2020-09-18T09:37:07Z",
+        "Details": "在本次课程中，我们将揭示 Excel 中最具价值的5大业务模型，包括业务预测模型、方案优化决策模型、业务影响度模型、方差检测模型、描述统计模型。共同探究这些业务分析模型在实际工作中的应用场景。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/揭示 Excel 最具价值的5大业务分析模型 （297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4Fcgr",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"9ab1be1e-a78a-4fef-a6f5-ec3814be06c3,1\"",
+      "id": "118",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('118')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9ab1be1e-a78a-4fef-a6f5-ec3814be06c3,1\"",
+        "id": "118",
+        "Title": "Microsoft 365 安全运维与管理10步法",
+        "Modified": "2020-09-18T09:37:08Z",
+        "Details": "我们将为 Microsoft 365 企业安全运维和管理提供10步基础部署建议，全面保护企业中的用户身份、终端设备、业务应用和信息数据，并加固恶意攻击和威胁行为的防范机制，为企业信息和数据安全提供有力保障。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft 365 安全运维与管理10步法（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4FhmQ",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"0ffd68e3-f13d-4604-b011-a6fd5ba71cf5,1\"",
+      "id": "119",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('119')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"0ffd68e3-f13d-4604-b011-a6fd5ba71cf5,1\"",
+        "id": "119",
+        "Title": "组织 Teams 在线会议10大注意事项",
+        "Modified": "2020-09-18T09:37:10Z",
+        "Details": "我们将为 Teams 会议组织者、演示者和参与者总结10条在线会议建议，包括会议中的角色权限控制、内容分享方式、会议录制技巧等，让 Teams 会议沟通成为团队工作中的最高效利器。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/组织 Teams 在线会议10大注意事项（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4FmUS",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"44c4af74-c80e-42b3-b9ff-fa72cd3a99af,1\"",
+      "id": "120",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('120')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"44c4af74-c80e-42b3-b9ff-fa72cd3a99af,1\"",
+        "id": "120",
+        "Title": "不要让一封邮件，毁了你的公司！",
+        "Modified": "2020-09-18T09:40:27Z",
+        "Details": "本课程中，我们将聚焦Office 365中的安全与合规，如何利用DLP技术防止数据泄露丢失，Azure AD RMS服务保证数据的加密与标记。如何利用电子数据展示集，审计企业的信息合规性。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_020.png",
+        "VideoUrl": "https://www.microsoft.com/zh-cn/videoplayer/embed/e4a8b420-ea04-4db2-ac5f-d9bd86050c95",
+        "Category": "OutLook"
+      }
+    },
+    {
+      "@odata.etag": "\"dbbbe93a-1f58-4f47-93a3-362d9a5610e8,1\"",
+      "id": "121",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('121')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"dbbbe93a-1f58-4f47-93a3-362d9a5610e8,1\"",
+        "id": "121",
+        "Title": "妙趣横生，你所不知道的 Windows 10 ",
+        "Modified": "2020-09-18T09:40:28Z",
+        "Details": "本课程中您将感受Windows 10操作系统在用户体验与创意更新上的优质表现，包括如何通过触摸、电子笔、语音等自然方式与设备进行交互，以及如何熟悉Windows Ink工作区，Edge，Cortana等全新应用的使用方式。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_014.png",
+        "VideoUrl": "https://www.microsoft.com/zh-cn/videoplayer/embed/f59862a6-8878-4475-89d3-026de4c8b3df",
+        "Category": "Windows"
+      }
+    },
+    {
+      "@odata.etag": "\"08f22d55-8e96-45ec-b411-c841bb616ff6,1\"",
+      "id": "122",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('122')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"08f22d55-8e96-45ec-b411-c841bb616ff6,1\"",
+        "id": "122",
+        "Title": "OneDrive for Business，持续在线的资源管理空间站",
+        "Modified": "2020-09-18T09:40:29Z",
+        "Details": "本课程将会为您精彩呈现 OneDrive for Business 最难以抗拒的产品功能及其应用场景，体验如何轻松将个人数据同步至云端，如何通过安全可控的方式分享文档内容，如何进行多人文档协作编辑以及文档的版本与权限控制。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_013.png",
+        "VideoUrl": "https://www.microsoft.com/zh-cn/videoplayer/embed/3669a1b8-3fb4-427c-8a84-50cc45a3233d",
+        "Category": "OneDrive for Business"
+      }
+    },
+    {
+      "@odata.etag": "\"ea0b1195-c084-496d-be62-d90d8bfa8ce0,1\"",
+      "id": "123",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('123')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"ea0b1195-c084-496d-be62-d90d8bfa8ce0,1\"",
+        "id": "123",
+        "Title": "Microsoft 365 打造企业现代化工作模式",
+        "Modified": "2020-09-18T09:40:31Z",
+        "Details": "本课程通过实际办公场景，为您全面展现在Microsoft 365云办公模式下的效率突破和革新，您将了解借助Office 365、Windows 10 和企业移动性 + 安全性的最新技术、产品和服务为企业业务运营和办公带来的新体验。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_009.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/8a2584b8-7293-4484-804d-344a1124818d",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"355c9a69-cb5f-4f04-a738-aa2b304498bc,1\"",
+      "id": "124",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('124')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"355c9a69-cb5f-4f04-a738-aa2b304498bc,1\"",
+        "id": "124",
+        "Title": "最强云办公效率必杀技",
+        "Modified": "2020-09-18T09:40:32Z",
+        "Details": "本课程将通过实际办公场景，为您全面揭秘在Office 365、Windows 10、Surface所共同构建的现代化云办公模式下如何进行业务效率的突破和革新，与您一起体验更加高效、便捷的工作技能，修炼最强云办公效率必杀技。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_008.png",
+        "VideoUrl": "https://www.microsoft.com/zh-cn/videoplayer/embed/e7e87f72-c5b1-4f48-ae80-83905ec37831",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"affd36be-24b7-4e84-8c63-4fca19f58e15,1\"",
+      "id": "125",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('125')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"affd36be-24b7-4e84-8c63-4fca19f58e15,1\"",
+        "id": "125",
+        "Title": "携手 Office 365 跨入人工智能时代 ",
+        "Modified": "2020-09-18T09:40:33Z",
+        "Details": "本课程中，您将在微软技术专家的揭示下，直观发现如何通过Office 365，将新技术融入日常业务流程，如何借助人工智能与机器学习能力高效提高办公效率，以及智能洞察分析业务工作背后的巨大价值。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_007.png",
+        "VideoUrl": "https://www.microsoft.com/zh-cn/videoplayer/embed/82aab223-9e7a-469e-9418-62589ba83720",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"83e263a8-8897-425d-8cf5-57d226865859,1\"",
+      "id": "126",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('126')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"83e263a8-8897-425d-8cf5-57d226865859,1\"",
+        "id": "126",
+        "Title": "Office 365 中的团队任务分配与管理 ",
+        "Modified": "2020-09-18T09:40:34Z",
+        "Details": "以团队任务管理和执行为核心，依托 Office 365 云办公平台，展现如何快捷、便利地在线管理您的任务。开箱即用的团队项目管理应用场景，让您可以做到先知先觉、及时预警、确保团队任务、项目成功及个人工作流畅管理。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_006.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2ixx7",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"9b27decb-6b13-4c02-8f65-b401820d21b6,1\"",
+      "id": "127",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('127')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"9b27decb-6b13-4c02-8f65-b401820d21b6,1\"",
+        "id": "127",
+        "Title": "Windows 10 打造企业信息智能安全堡垒",
+        "Modified": "2020-09-18T09:40:35Z",
+        "Details": "本课程将共同探讨 Windows 10 在企业信息安全性上的提升，如何通过强大的安全认证，在不损伤用户流畅体验的前提下实现了更易管理的目标。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_004.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE23WJs",
+        "Category": "安全与运维"
+      }
+    },
+    {
+      "@odata.etag": "\"40871ddd-3ec8-4245-8c2e-8905fd99eb0d,1\"",
+      "id": "128",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('128')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"40871ddd-3ec8-4245-8c2e-8905fd99eb0d,1\"",
+        "id": "128",
+        "Title": "人工智能驱动的现代化工作模式",
+        "Modified": "2020-09-18T09:40:36Z",
+        "Details": "本课程中，您将在微软技术专家的揭示下，直观发现如何通过Office 365，将新技术融入日常业务流程，如何借助人工智能与机器学习能力高效提高办公效率，以及智能洞察分析业务工作背后的巨大价值。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_003.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE1ZMjN",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"1c36dbf0-fb2a-4c43-93fc-32cfe7ec6ec9,1\"",
+      "id": "129",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('129')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"1c36dbf0-fb2a-4c43-93fc-32cfe7ec6ec9,1\"",
+        "id": "129",
+        "Title": "Microsoft Office 365 10大独门秘笈",
+        "Modified": "2020-09-18T09:40:37Z",
+        "Details": "通过本次课程，您将了解到Office 365 中那些“狂拽炫酷屌炸天”的特性，并通过巧用这些功能，笑傲职场、事半功倍，在现代化云办公模式下实现效率突破和革新。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_002.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE1Y3KQ",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"7a97d787-8417-44ea-aa26-e72f2074d5c7,1\"",
+      "id": "130",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('130')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"7a97d787-8417-44ea-aa26-e72f2074d5c7,1\"",
+        "id": "130",
+        "Title": "Office 365 电子问卷调查制作三剑客",
+        "Modified": "2020-09-18T09:40:38Z",
+        "Details": "借助 Office 365 平台，详细阐述如何将传统的纸质问卷创建为电子化调查，并完成在线调查的发布、共享、填写、汇总、分析的全自动化流程，彻底抛弃繁杂的手工作业，极大简化企业调查的创建和反馈收集过程。",
+        "ImgUrl": "http://51cie.net.cn/ELNCOURImg/ELNCOUR_001.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2881C ",
+        "Category": "Excel"
+      }
+    },
+    {
+      "@odata.etag": "\"6e9b96f8-b110-48dc-8512-a385f3182931,1\"",
+      "id": "131",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('131')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"6e9b96f8-b110-48dc-8512-a385f3182931,1\"",
+        "id": "131",
+        "Title": "Microsoft Teams 打造团队协作新战术",
+        "Modified": "2020-09-18T09:40:39Z",
+        "Details": "本次课程将从团队工作流程和信息管理方法入手，为您剖析 Teams 在团队中的应用场景，并将聚合的团队服务、应用流程和业务数据直观地推送给每一位团队成员。让每个团队都成为更加紧密的集体。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/ELNCOUR_025.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE2tMz1",
+        "Category": "Teams"
+      }
+    },
+    {
+      "@odata.etag": "\"b0034a1d-5df4-4e75-ace3-26d5d873875d,1\"",
+      "id": "132",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('132')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b0034a1d-5df4-4e75-ace3-26d5d873875d,1\"",
+        "id": "132",
+        "Title": "Office 365 纵横职场之业务主管无忧办公",
+        "Modified": "2020-09-18T09:40:40Z",
+        "Details": "任何企业都需要有一个核心的管理团队，他们将直接影响着企业的业务运转。本次课程中，旨在培养业务主管在IT办公中的必备技能，不仅介绍业务主管应了解的IT知识，而且将结合日常工作场景，介绍Office 365在业务主管日常工作中的管理能力。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/ELNCOUR_034.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RWvNZI ",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"79f258c7-5ba6-44fc-9111-db228e151926,1\"",
+      "id": "133",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('133')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"79f258c7-5ba6-44fc-9111-db228e151926,1\"",
+        "id": "133",
+        "Title": "攻克 Power Apps 之一：数据源与控件的绑定",
+        "Modified": "2020-09-18T09:40:41Z",
+        "Details": "内置在 Microsoft 365 中的 Power Apps 为快速构建企业级应用提供了灵活、简便的方式。在本次课程中，您将了解到定制 Power Apps 应用的第一步：如何连接数据源，并通过控件展示数据源。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/攻克 Power Apps 之一：数据源与控件的绑定（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE41p9D ",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"236dc37c-b5a7-49d1-813c-e1c98f283804,1\"",
+      "id": "134",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('134')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"236dc37c-b5a7-49d1-813c-e1c98f283804,1\"",
+        "id": "134",
+        "Title": "借助Forms表单触发自动化业务流程",
+        "Modified": "2020-09-18T09:40:44Z",
+        "Details": "您使用什么工具采集数据？您又将如何利用数据触发业务流程，指导下一步的工作？在本次课程中，我们将以 Forms 表单采集数据为切入点，依据数据的类型和条件，使用 Flow 实现工作流程的自动触发。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/借助 Forms 表单触发自动化业务流程（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3P9EA ",
+        "Category": "Office 365"
+      }
+    },
+    {
+      "@odata.etag": "\"8cc6f01f-8af6-4aa2-b3d8-060a15caf43a,4\"",
+      "id": "135",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('135')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8cc6f01f-8af6-4aa2-b3d8-060a15caf43a,4\"",
+        "id": "135",
+        "Title": "定制 Office 365 数据防丢失策略（DLP）",
+        "Modified": "2021-02-07T08:15:52Z",
+        "Details": "敏感数据的外泄都会对企业数字化资产安全带来不言而喻的隐患。在本次课程中，您将了解如何借助Microsoft 365 中的数据放丢失（DLP）技术控制企业敏感数据信息的泄露风险，同时，您也将了解如何自定义用户通知，以及如何解读 DLP 管理报告。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/定制 Office 365 数据防丢失策略（DLP）（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE3P9EA ",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"8edb5964-f19d-4d83-abde-f165a574f7cc,1\"",
+      "id": "136",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('136')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8edb5964-f19d-4d83-abde-f165a574f7cc,1\"",
+        "id": "136",
+        "Title": "Microsoft 助力企业云应用的安全与合规",
+        "Modified": "2020-09-18T09:40:47Z",
+        "Details": "企业需应对的网络安全格局正在迅速变化，网络空间已经成为企业和黑客攻防战新的战场，恶意攻击几乎可以从任意位置发起，在严重不足的安全技能和能力下，企业信息安全面临严峻挑战，Microsoft 可以有效助力企业云应用的安全与合规。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft 助力企业云应用的安全与合规（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/M365/Microsoft 助力企业云应用的安全与合规.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"562cf6e1-79f4-4d56-88a5-0f51d618027b,4\"",
+      "id": "137",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('137')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"562cf6e1-79f4-4d56-88a5-0f51d618027b,4\"",
+        "id": "137",
+        "Title": "使用AAD加强用户身份和访问管理",
+        "Modified": "2021-02-25T07:44:37Z",
+        "Details": "数字化转型下的企业安全边界正在扩大，身份成为新的控制平台。实施有效的身份和访问管理，需要确保用户授权并可以安全访向应用、数据和设备。您将了解如何使用 Azure AD：构建第一道防线、改善用户体验维护安全、保护凭据。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/使用AAD加强用户身份和访问管理（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/M365/使用Azure Active Directory加强用户身份和访问管理.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"e65e1fa9-c55a-4893-b925-0c64276d0a20,1\"",
+      "id": "138",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('138')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"e65e1fa9-c55a-4893-b925-0c64276d0a20,1\"",
+        "id": "138",
+        "Title": "配置和部署Microsoft 信息保护解决方案",
+        "Modified": "2020-09-18T09:40:49Z",
+        "Details": "企业安全边界正在发生改变，企业需要具备有效配置和部署保护敏感数据的管理策略。而 Microsoft 信息保护解决方案，从检测、分类、保护和监控 4 方面，全面保护在企业内外、整个数据生命周期中的敏感数椐。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/配置和部署 Microsoft 信息保护解决方案（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/M365/配置和部署Microsoft 信息保护解决方案.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"71ce47b5-2f33-4831-a678-d97eba9d7451,1\"",
+      "id": "139",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('139')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"71ce47b5-2f33-4831-a678-d97eba9d7451,1\"",
+        "id": "139",
+        "Title": "管理企业移动设备并保护移动应用数据",
+        "Modified": "2020-09-18T09:40:50Z",
+        "Details": "设备和应用增加的同时，新的风险随之而来。通过微软智能云技术提供支持，轻松管理 iOS、 Android、macOS 和 Windows 设备；当访问公司资源时，无论公司设备还是个人设备，都受到安全策略保护。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/管理企业移动设备并保护移动应用数据（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/M365/管理企业移动设备并保护移动应用数据.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"50338754-31a4-40bd-bccd-ad0d08ea98ff,1\"",
+      "id": "140",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('140')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"50338754-31a4-40bd-bccd-ad0d08ea98ff,1\"",
+        "id": "140",
+        "Title": "在 Microsoft 威胁防护下的安全运维和响应",
+        "Modified": "2020-09-18T09:40:51Z",
+        "Details": "网络安全格局正在迅速变化，企业信息安全面临着严峻的挑战，Microsoft 智能安全以独特的洞察力，有效应对来身份认证、终端设备、用户数据、云应用和基础设施的潜在威胁。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/在 Microsoft 威胁防护下的安全运维和响应（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/M365/在 Microsoft 威胁防护下的安全运维和响应.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"66d235fe-fc2b-4ca7-b984-8073d041ead4,2\"",
+      "id": "141",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('141')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"66d235fe-fc2b-4ca7-b984-8073d041ead4,2\"",
+        "id": "141",
+        "Title": "使用 Microsoft Cloud App 保护Office 365和第三方云应用",
+        "Modified": "2020-09-29T09:10:30Z",
+        "Details": "Microsoft Cloud App Security 是支持各种部署模式的云访问安全代理，它提供了丰富的显示效果、数据旅程控制和成熟分析服务，用于跨所有 Microsoft 和第三方云服务发现和防范网络威胁。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/使用 Microsoft Cloud App 保护Office 365和第三方云应用（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/M365/使用 Microsoft Cloud App 保护Office 365和第三方云应用.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"b43ccc2d-1549-4aad-86d2-4f96e168bf61,2\"",
+      "id": "142",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('142')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"b43ccc2d-1549-4aad-86d2-4f96e168bf61,2\"",
+        "id": "142",
+        "Title": "探究Microsoft 365 高级电子数据发现保证企业合规性",
+        "Modified": "2021-02-07T08:45:00Z",
+        "Details": "通过 Microsoft 365 高级电子数据展示，您将有效保证企业合规性，使用内置、完整的智能发现工具进行有效响应。您将了解如何利用集成工具、通过存档和保留数据来降低风险，以及确保企业安全合规。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/探究Microsoft 365 高级电子数据发现保证企业合规性（297 165）.png",
+        "VideoUrl": "https://chinaevent.microsoft.com/mp4/M365/探究Microsoft 365 高级电子数据发现保证企业合规性.mp4",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"acb14e5c-0d2e-4a35-ba25-3363989291a5,6\"",
+      "id": "143",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('143')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"acb14e5c-0d2e-4a35-ba25-3363989291a5,6\"",
+        "id": "143",
+        "Title": "攻克 Power Apps 之二：在PowerApps 中使用通用数据服务",
+        "Modified": "2020-12-01T09:36:59Z",
+        "Details": "Common Data Service for Apps为 PowerApps 添加了数据存储和建模功能，它具有可伸缩性且易于开通，在本次课程中，您将了解如何在 Power Apps 中应用通用数据服务（CDS），自定义实体、字段和业务规则，并在画布中应用CDS实体。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/攻克 Power Apps 之二：在 Power Apps 中使用通用数据服务 （297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4Fk2I",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"de8a6e96-1505-4fef-8d0c-793b8b448adf,4\"",
+      "id": "144",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('144')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"de8a6e96-1505-4fef-8d0c-793b8b448adf,4\"",
+        "id": "144",
+        "Title": "Microsoft 365 与 Dynamics 365 强强联合，打通办公与业务通路",
+        "Modified": "2021-02-07T08:13:20Z",
+        "Details": "在本次课程中，您将了解Microsoft Dynamics 365 与 Microsoft 365 强强联合，将业务数据和信息推送到Microsoft Outlook、Teams、SharePoint Online 等服务中，实现办公与业务之间的紧密的整合，助力您快速响应和处理关键业务。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/Microsoft 365 与 Dynamics 365 强强联合，打通办公与业务通路（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4Fcgx",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"8265618a-3372-4fd1-8111-2967fd474881,12\"",
+      "id": "145",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('145')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"8265618a-3372-4fd1-8111-2967fd474881,12\"",
+        "id": "145",
+        "Title": "详解 Microsoft 365 管理中心新增功能",
+        "Modified": "2021-02-07T08:11:47Z",
+        "Details": "不断改进 Microsoft 365 的管理中心，可以更好地满足不断变化的 IT 需求，帮助你简化工作，并响应企业和用户的需求。在本次课程中，您将了解Microsoft 365管理中心的最新改进，以及预览版中推出的新功能。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/详解 Microsoft 365 威胁防护和风险抵御（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4F9Ow",
+        "Category": "Microsoft 365"
+      }
+    },
+    {
+      "@odata.etag": "\"d25f3ec1-e185-4e07-bb5d-516271225991,6\"",
+      "id": "146",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('bticportal.sharepoint.com%2C92e3c859-b623-4085-8562-0970902dd44e%2C4dbbc5e2-c347-4b75-b8e4-0ab05af4de5c')/lists('016472f2-ee0f-45a8-9862-c37489bfb4c3')/items('146')/fields(id,title,imgurl,videourl,category,modified,details)/$entity",
+      "fields": {
+        "@odata.etag": "\"d25f3ec1-e185-4e07-bb5d-516271225991,6\"",
+        "id": "146",
+        "Title": "攻克 Power Apps 之三：创建PowerApps模型驱动应用",
+        "Modified": "2020-12-01T09:36:57Z",
+        "Details": "内置在 Microsoft 365 中的 Power Apps为快速构建企业级应用提供了灵活、简便的方式。在本次课程中，您将了解到定制 Power Apps 应用的第三步：创建模型驱动应用。",
+        "ImgUrl": "http://51cie.net.cn/managerSys/ELNCOURImg/攻克 Power Apps 之三：创建 Power Apps 模型驱动应用（297 165）.png",
+        "VideoUrl": "https://www.microsoft.com/en-us/videoplayer/embed/RE4FrJ2",
+        "Category": "Microsoft 365"
+      }
+    }
+  ]
+}
