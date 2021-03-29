@@ -99,20 +99,15 @@ class Result {
         const questionImages = questionSection.filter(_ => _.src)
 
         const selectionsSection = section.slice(headOfSelections, headOfAnswerSection)
-        let selections = []
-        for (let i = selectionsSection.length - 1; i > 0; i--) {
-          let selection = selectionsSection[i].text
-          if (/^[ABCEDFG]\./.test(selection)) {
-            selections.push({
-              type: "text",
-              text: selection
-            })
-          } else {
-            selectionsSection[i - 1].text += " " + selection
-          }
-        }
-        selections.push(selectionsSection[0])
-        selections.reverse()
+        let selections = selectionsSection
+          .filter(_ => _.text)
+          .map(_ => _.text)
+          .join(" ")
+          .split(/(?=[ABCDEFG]\.)/)
+          .map(text => ({
+            type: "text",
+            text
+          }))
 
 
         const answers = section.slice(headOfAnswerSection)
