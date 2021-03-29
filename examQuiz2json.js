@@ -2,10 +2,8 @@ const fs = require("fs")
 const path = require("path")
 const writeFile = require("./writeFileSafe")
 
-
-
 const FILE_PATH = path.join(__dirname, "./data/MS-700.html")
-const RESULT_PATH = path.join(__dirname, "./data/MS-700_mini.json")
+const RESULT_PATH = path.join(__dirname, "./data/MS-700_mini.js")
 
 fs.promises.readFile(FILE_PATH, {
   encoding: "utf-8"
@@ -19,7 +17,7 @@ fs.promises.readFile(FILE_PATH, {
     .flatContent()
     .build()
 
-  writeFile(RESULT_PATH, JSON.stringify(result.content))
+  writeFile(RESULT_PATH, "var data=" + JSON.stringify(result.content))
 })
 
 class Result {
@@ -69,7 +67,7 @@ class Result {
       .map(_ =>
         _
         // 暂时把图片的 src 抹掉
-        .replace(/src=".*?"/g, "src=\"...\"")
+        // .replace(/src=".*?"/g, "src=\"...\"")
         // 抹掉不必要的 class 内容
         .replace(/class="(pc)?.*?"/g, "$1"))
       .map(_ =>
@@ -93,9 +91,8 @@ class Result {
     this.content = splitContentIntoSection(this.content)
       .map(section => {
         if (section[0].text.startsWith("QUESTION")) {
-          let headOfAnswerSection = section.findIndex(_ => _.text && _.text.startsWith("Correct Answer:"))
-          let headOfSelections = section.slice(0, headOfAnswerSection)
-            .findIndex(_ => _.text && _.text.startsWith("A."))
+          let headOfAnswerSection = section.findIndex(isStartsWith("Correct Answer:"))
+          let headOfSelections = section.slice(0, headOfAnswerSection).findIndex(isStartsWith("A."))
           headOfSelections = headOfSelections === -1 ? headOfAnswerSection : headOfSelections
 
           const questionSection = section.slice(1, headOfSelections)
@@ -106,44 +103,16 @@ class Result {
           const questionImages = questionSection.filter(_ => _.src)
 
           const selectionsSection = section.slice(headOfSelections, headOfAnswerSection)
-          const selectionsTexts = selectionsSection
-            .filter(_ => _.text)
-            .map(_ => _.text)
-            .join(" ")
-            .split(/(?=[ABCDEFG]\.)/)
-            .filter(text => text.trim() !== "")
-            .map(text => ({
-              type: "text",
-              text: text.trim()
-            }))
+          const selectionsTexts = compactText(selectionsSection, /(?=[ABCDEFG]\.)/, " ")
           const selectionsImages = selectionsSection.filter(_ => _.src)
 
           let answers = section.slice(headOfAnswerSection)
-          let headOfExplanation = answers.findIndex(_ => _.text === "Explanation:")
-          let headOfReference = answers.findIndex(_ => _.text === "Reference:")
-          let headOfExpOrRef = answers.findIndex(_ => _.text === "Explanation/Reference:")
-
+          let headOfExplanation = answers.findIndex(isStartsWith("Explanation:"))
+          let headOfReference = answers.findIndex(isStartsWith("Reference:"))
+          let headOfExpOrRef = answers.findIndex(isStartsWith("Explanation/Reference:"))
           let tailOfExplanation = headOfReference === -1 ? answers.length : headOfReference
-          const explanation = answers
-            .slice(headOfExplanation, tailOfExplanation)
-            .map(_ => _.text)
-            .join("")
-            .split(/(?<=Explanation:)/)
-            .map(_ => ({
-              type: "text",
-              text: _.text
-            }))
-
-          const reference = answers
-            .slice(headOfReference)
-            .filter(_ => _.text)
-            .map(_ => _.text)
-            .join("")
-            .split(/(?=http)/)
-            .map(text => ({
-              type: "text",
-              text: text.trim()
-            }))
+          const explanation = compactText(answers.slice(headOfExplanation, tailOfExplanation), /(?<=Explanation:)/)
+          const reference = compactText(answers.slice(headOfReference), /(?=http)/)
 
           return {
             type: "question",
@@ -152,9 +121,7 @@ class Result {
             selections: [...selectionsTexts, ...selectionsImages],
             answers: [...answers.slice(0, headOfExpOrRef + 1), ...explanation, ...reference]
           }
-        }
-
-        if (section[0].text.startsWith("Case study")) {
+        } else if (section[0].text.startsWith("Case study")) {
           const content = section.slice(1).filter(_ => _.text).map(_ => _.text).join(" ")
           const textBeforeContext = "click the Question button to return to the question."
           const headOfContext = content.lastIndexOf(textBeforeContext) + textBeforeContext.length + 1
@@ -172,11 +139,11 @@ class Result {
             type: "CaseStudy",
             content: [caseStudyDescription, context, ...images]
           }
-        }
-
-        return {
-          type: "sectionHeader",
-          content: section,
+        } else {
+          return {
+            type: "sectionHeader",
+            content: section,
+          }
         }
       })
 
@@ -185,6 +152,21 @@ class Result {
   }
 }
 
+function isStartsWith(text) {
+  return _ => _.text && _.text.startsWith(text)
+}
+
+function compactText(arr, spliterReg, joiner = "") {
+  return arr
+    .filter(_ => _.text)
+    .map(_ => _.text)
+    .join(joiner)
+    .split(spliterReg)
+    .map(text => ({
+      type: "text",
+      text: text.trim()
+    }))
+}
 
 function leverageRootTag(str, tag) {
   const tagReg = new RegExp(`</?${tag}.*?>`, "g")
@@ -206,7 +188,7 @@ function leverageRootTag(str, tag) {
       contentEnd = tagReg.lastIndex - tag.length - 3 /** 3 为 </> 这三个符号的长度 */
       return str.slice(contentStart, contentEnd)
     }
-
+    // 寻找下一个匹配的标签
     res = tagReg.exec(str)
   }
 
