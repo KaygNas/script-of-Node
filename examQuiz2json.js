@@ -19,7 +19,7 @@ fs.promises.readFile(FILE_PATH, {
     .flatContent()
     .build()
 
-  writeFile(RESULT_PATH, JSON.stringify(result.structedContent.slice(53, 60)))
+  writeFile(RESULT_PATH, JSON.stringify(result.content.slice(50, 60)))
 })
 
 class Result {
@@ -42,11 +42,22 @@ class Result {
 
   reviseChoices(choices) {
     choices.forEach(choice => {
-      const reg1 = new RegExp(`<div.*?>(<div.*?>${choice}\\.)<\\/div><\\/div><div.*?><div.*?>(.*?<\\/div>)<\\/div>`, "g")
-      this.content = this.content.replace(reg1, "$1$2")
+      const $1 = `(<div.*?>${choice}\\.)`
+      const $2 = `(.*?<\\/div>)`
+      const before = `<div.*?>`
+      const after = `<\\/div>`
 
-      const reg2 = new RegExp(`(<div.*?>${choice}\\.)<\\/div><div.*?>(.*?<\\/div>)`, "g")
-      this.content = this.content.replace(reg2, "$1$2")
+      let reg = (depth) => new RegExp(
+        before.repeat(depth - 1) +
+        $1 +
+        after.repeat(depth) +
+        before.repeat(depth) +
+        $2 +
+        after.repeat(depth - 1))
+
+      let depth = 1
+      while (reg(depth).test(this.content))
+        this.content = this.content.replace(reg(depth++), "$1$2")
     })
     return this
   }
@@ -74,7 +85,7 @@ class Result {
   }
 
   build() {
-    this.structedContent = splitContentIntoSection(this.content).map(section => {
+    this.content = splitContentIntoSection(this.content).map(section => {
       if (section[0].text.startsWith("QUESTION")) {
         const headOfAnswerSection = section.findIndex(_ => _.text && _.text.startsWith("Correct Answer:"))
         const headOfSelections = section.slice(0, headOfAnswerSection)
@@ -87,7 +98,22 @@ class Result {
         }
         const questionImages = questionSection.filter(_ => _.src)
 
-        const selections = section.slice(headOfSelections, headOfAnswerSection)
+        const selectionsSection = section.slice(headOfSelections, headOfAnswerSection)
+        let selections = []
+        for (let i = selectionsSection.length - 1; i > 0; i--) {
+          let selection = selectionsSection[i].text
+          if (/^[ABCEDFG]\./.test(selection)) {
+            selections.push({
+              type: "text",
+              text: selection
+            })
+          } else {
+            selectionsSection[i - 1].text += " " + selection
+          }
+        }
+        selections.push(selectionsSection[0])
+        selections.reverse()
+
 
         const answers = section.slice(headOfAnswerSection)
         const headOfExplanation = answers.findIndex(_ => _.text === "Explanation:")
@@ -151,7 +177,7 @@ function leverageRootTag(str, tag) {
       stack.pop()
 
     if (stack.length === 0) {
-      contentEnd = tagReg.lastIndex - tag.length - 3
+      contentEnd = tagReg.lastIndex - tag.length - 3 /** 3 为 </> 这三个符号的长度 */
       return str.slice(contentStart, contentEnd)
     }
 

@@ -1,5 +1,122 @@
 [{
   "type": "question",
+  "title": "QUESTION 50",
+  "question": [{
+    "type": "text",
+    "text": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company has a Microsoft 365 subscription that uses an Azure Active Directory (Azure AD) tenant named contoso.com. You need to prevent guest users in the tenant from using cameras during Microsoft Teams meetings. Solution: From Microsoft Teams admin center, you modify the Guest access settings. Does this meet the goal?"
+  }],
+  "selections": [{
+    "type": "text",
+    "text": "A.Yes"
+  }, {
+    "type": "text",
+    "text": "B.No"
+  }],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: A"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Explanation:"
+  }, {
+    "type": "text",
+    "text": "Guest access in Teams allows people outside you organization to access teams and channels. When you turn on Guest Access, you can turn on or off features guests users can or can&apos;t use."
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoftteams/set-up-guests"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 51",
+  "question": [{
+    "type": "text",
+    "text": "HOTSPOT 302341CE5371968C6E29FD33D6E5E7D9 You have a Microsoft 365 tenant that uses Microsoft Skype for Business on-premises. You plan to upgrade to Microsoft Teams in stages based on groups. The features required by each group are shown in the following table. How should you configure the upgrade policy for the groups? To answer, select the appropriate options in the answer area. NOTE: Each correct selection is worth one point. Hot Area: Correct Answer:  302341CE5371968C6E29FD33D6E5E7D9 Section: (none) Explanation Explanation/Reference: Reference:"
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "image",
+    "src": "..."
+  }],
+  "selections": [null],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: "
+  }, {
+    "type": "image",
+    "src": "..."
+  }, {
+    "type": "text",
+    "text": "302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoftteams/migration-interop-guidance-for-teams-with-skype"
+  }]
+}, {
+  "type": "question",
+  "title": "QUESTION 52",
+  "question": [{
+    "type": "text",
+    "text": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution. After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen. Your company has a Microsoft 365 subscription that uses an Azure Active Directory (Azure AD) tenant named contoso.com. You need to prevent guest users in the tenant from using cameras during Microsoft Teams meetings. Solution: From Microsoft Teams admin center, you modify the External sharing settings. Does this meet the goal?"
+  }],
+  "selections": [{
+    "type": "text",
+    "text": "A.Yes"
+  }, {
+    "type": "text",
+    "text": "B.No"
+  }],
+  "answers": [{
+    "type": "text",
+    "text": "Correct Answer: B"
+  }, {
+    "type": "text",
+    "text": "Section: (none)"
+  }, {
+    "type": "text",
+    "text": "Explanation"
+  }, {
+    "type": "text",
+    "text": "Explanation/Reference:"
+  }, {
+    "type": "text",
+    "text": "Explanation:"
+  }, {
+    "type": "text",
+    "text": "Guest access in Teams allows people outside you organization to access teams and channels. When you turn on Guest Access, you can turn on or off features guests users can or can&apos;t use.    302341CE5371968C6E29FD33D6E5E7D9"
+  }, {
+    "type": "text",
+    "text": "Reference:"
+  }, {
+    "type": "text",
+    "text": "https://docs.microsoft.com/en-us/microsoftteams/set-up-guests"
+  }]
+}, {
+  "type": "question",
   "title": "QUESTION 53",
   "question": [{
     "type": "text",
@@ -8,7 +125,7 @@
     "type": "image",
     "src": "..."
   }],
-  "selections": [],
+  "selections": [null],
   "answers": [{
     "type": "text",
     "text": "Correct Answer: "
@@ -403,31 +520,19 @@
   }],
   "selections": [{
     "type": "text",
-    "text": "A.From the Microsoft Teams admin center, set the Microsoft Teams upgrade policy to Skype for"
+    "text": "A.From the Microsoft Teams admin center, set the Microsoft Teams upgrade policy to Skype forBusiness with Teams collaboration and meetings coexistence mode."
   }, {
     "type": "text",
-    "text": "Business with Teams collaboration and meetings coexistence mode."
-  }, {
-    "type": "text",
-    "text": "B.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyName"
-  }, {
-    "type": "text",
-    "text": "SfBWithTeamsCollab cmdlet."
+    "text": "B.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyNameSfBWithTeamsCollab cmdlet."
   }, {
     "type": "text",
     "text": "C.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyName Islands cmdlet."
   }, {
     "type": "text",
-    "text": "D.From the Microsoft Teams admin center, set the Microsoft Teams upgrade policy to Skype for"
+    "text": "D.From the Microsoft Teams admin center, set the Microsoft Teams upgrade policy to Skype forBusiness only coexistence mode."
   }, {
     "type": "text",
-    "text": "Business only coexistence mode."
-  }, {
-    "type": "text",
-    "text": "E.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyName"
-  }, {
-    "type": "text",
-    "text": "SfBWithTeamsCollabAndMeeting cmdlet."
+    "text": "E.From PowerShell, run the Grant-CsTeamsUpgradePolicy -PolicyNameSfBWithTeamsCollabAndMeeting cmdlet."
   }],
   "answers": [{
     "type": "text",
@@ -467,7 +572,7 @@
     "type": "image",
     "src": "..."
   }],
-  "selections": [],
+  "selections": [null],
   "answers": [{
     "type": "text",
     "text": "Correct Answer: "
